@@ -15,7 +15,5 @@
 			</ul>
 		</footer>
 	</div>
-	<script src="/assets/js/bigtext.js"></script>
-	<script src="/node_modules/flickity/dist/flickity.pkgd.min.js"></script>
 </body>
 </html>

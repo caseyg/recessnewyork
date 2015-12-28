@@ -20,8 +20,7 @@
           transition: opacity 0.24s ease-in-out;
   }
   </style>
-  <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-  <script src="/assets/js/webfontloader.js"></script>
+  <script src="/assets/js/app.min.js"></script>
   <script>
   $(function() {
       WebFont.load({
