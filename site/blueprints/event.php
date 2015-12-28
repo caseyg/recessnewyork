@@ -12,26 +12,30 @@ fields:
     label: Date
     type: date
     format: MM/DD/YYYY
-    width: 1/3
+    width: 1/2
   time:
     label: Time
     type: text
-    width: 1/3
+    width: 1/2
+  sport:
+    label: Sport
+    type:  text
+    width: 1/2
   season:
     label: Season
     type: select
-    width: 1/3
+    width: 1/2
     options:
       spring: "Spring"
       summer: "Summer"
       fall: "Fall"
       winter: "Winter"
-  text:
-    label: Text
-    type:  textarea
   champion:
     label: Champion
     type: text
+  text:
+    label: Text
+    type:  textarea
   tickets:
     label: Ticket Purchase URL
     type: url

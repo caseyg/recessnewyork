@@ -46,7 +46,9 @@
 	<?php endif ?>
 </div>
 
-<hr>
+<div class="row">
+	<hr>	
+</div>
 
 <div class="row">
 	<?php snippet('date-grid', array('page' => $site->pages()->find('events'))); ?>
