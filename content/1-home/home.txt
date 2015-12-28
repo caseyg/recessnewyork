@@ -1,0 +1,33 @@
+Title: Recess New York
+
+----
+
+Text: 
+
+----
+
+Subtitle: Igniting competitive spirit
+
+----
+
+Hero-color: #ff0000
+
+----
+
+Hero-background-color: #ff0000
+
+----
+
+Hero-text-color: #ffffff
+
+----
+
+Herobackgroundcolor: #ff0000
+
+----
+
+Herotextcolor: #ffffff
+
+----
+
+Carousel: 
