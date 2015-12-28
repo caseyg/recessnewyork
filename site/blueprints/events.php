@@ -1,7 +1,9 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Page
+deletable: false
 pages:
+  template: event
   num:
     mode: date
 files: false
@@ -25,10 +27,6 @@ fields:
         label: Page
         type: select
         options: children
-      image:
-        label: Display Image
-        type: checkbox
-        default: 1
   text:
     label: Text
     type:  textarea

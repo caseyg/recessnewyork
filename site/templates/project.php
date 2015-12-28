@@ -9,8 +9,8 @@
 <div class="row">
 	<div class="col-xs-12 col-sm-8 col-sm-push-2">
 		<header class="content-header">
-			<h1><?php if (!$page->sport()->isEmpty()): ?><?php echo $page->sport() ?>, <?php endif ?><?php echo $page->season() ?> <?php echo $page->date('Y') ?></h1>
-			<?php if($page->champion()->isNotEmpty()): ?><h2>Champion: <?php echo $page->champion() ?></h2><?php endif ?>
+			<h1><?php echo $page->title() ?></h1>
+			<?php if($page->subtitle()->isNotEmpty()): ?><h2><?php echo $page->subtitle() ?></h2><?php endif ?>
 		</header>
 	</div>
 	<div class="col-xs-6 col-sm-2 col-sm-pull-8">
@@ -24,8 +24,14 @@
 	</div>
 </div>
 
-<div class="row">
-	<?php if($page->images()->count() > 1): ?>
+<class class="row">
+	<div class="text-center col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+		<?php echo $page->text()->kt() ?>
+	</div>
+</class>
+
+<?php if($page->images()->count() > 1): ?>
+	<div class="row">
 		<div class="gallery js-flickity">
 			<?php 
 			foreach( $page->images() as $slide): ?>
@@ -35,21 +41,16 @@
 					</figure>
 				<?php endif ?>
 			<?php endforeach ?>
-			<div class="lead gallery-cell col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-				<?php echo $page->text()->kt() ?>
-			</div>
 		</div>
-	<?php else: ?>
-		<div class="lead gallery-cell col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-			<?php echo $page->text()->kt() ?>
-		</div>
-	<?php endif ?>
-</div>
-
-<hr>
+	</div>
+<?php endif ?>
 
 <div class="row">
-	<?php snippet('date-grid', array('page' => $site->pages()->find('events'))); ?>
+	<hr>
+</div>
+
+<div class="row">
+	<?php snippet('projects') ?>
 </div>
 
 <?php snippet('footer') ?>

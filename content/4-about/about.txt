@@ -4,11 +4,11 @@ Title: About
 
 Text: 
 
-### Participation is always voluntary at RECESS. Passion, however, is mandatory.
+## Participation is always voluntary at RECESS. <br> Passion, however, is mandatory.
 
 Igniting the city's competitive spirit thru recreational sports, music + culture since 2009, RECESS is an ongoing series of sporting challenges with a mixtape club for creatives.
 
-We host playful sporting events throughout the year and every first Tuesday of the month, we publish an online mixtape series called INTERMISSION featuring 4 guest selectors from diverse creative backgrounds, each 30mins long to showcase their musical palette.
+We host playful (link: /events text: sporting events) throughout the year and every first Tuesday of the month, we publish an online mixtape series called (link: /intermission text: INTERMISSION) featuring 4 guest selectors from diverse creative backgrounds, each 30mins long to showcase their musical palette.
 
 ----
 
@@ -21,3 +21,7 @@ Herobackgroundcolor:
 ----
 
 Herotextcolor: 
+
+----
+
+Carousel: 

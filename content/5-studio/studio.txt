@@ -4,7 +4,7 @@ Title: Studio
 
 Text: 
 
-### Recess Studio
+## Recess Studio
 
 Since its inception in 2006, Recess New York has worked with international lifestyle brands to help create memorable brand experiences through strategic lifestyle marketing, design and event production services. Ideas take shape in various forms. We just prefer engaging and connecting outdoors.
 
@@ -19,3 +19,7 @@ Herobackgroundcolor:
 ----
 
 Herotextcolor: 
+
+----
+
+Carousel: 

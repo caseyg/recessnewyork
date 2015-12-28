@@ -14,7 +14,7 @@
 						<div class="overlay"></div>
 						<header>
 							<span>
-								<?php if($hero->subtitle()): ?><h2><?php echo $hero->date("F") ?> Session — Mix by</h2><?php endif ?>
+								<?php if($page->slug() == 'events'): ?><h2><?php echo $hero->date("F j") ?><?php if(!$hero->time()->isEmpty()): ?>, <?php echo $hero->time() ?><?php endif ?></h2><?php else: ?><?php if($hero->subtitle()): ?><h2><?php echo $hero->date("F") ?> Session — Mix by</h2><?php endif ?><?php endif ?>
 								<?php if($hero->title()): ?><h1><?php echo $hero->title() ?></h1><?php endif ?>
 							</span>
 						</header>

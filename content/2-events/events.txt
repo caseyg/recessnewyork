@@ -22,4 +22,4 @@ Carousel:
 
 - 
   page: Foam-Tennis-2015
-  image: "1"
+  image: "0"

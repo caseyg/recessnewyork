@@ -15,10 +15,23 @@ body {
 	font-weight: 800;
 }
 
+.peek {
+	h2 {
+		border-top: 1px solid #ccc;
+		padding-top: 15px;
+	}
+}
+
 h1, h2, h3, h4, h5, h6, nav {
 	font-family: "futura-pt", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+a:link, a:visited {
+	h1, h2, h3, h4, h5, h6 {
+		color: #000;
+	}
 }
 
 h1 {
@@ -29,6 +42,14 @@ h1 {
 h2 {
 	font-size: 14px;
 	font-weight: 800!important;
+	margin-bottom: 5px;
+}
+
+h3 {
+	font-size: 14px;
+	font-weight: 100!important;
+	margin-top: 0;
+	margin-bottom: 10px;
 }
 
 header {
@@ -42,18 +63,30 @@ header {
 	}
 }
 
-.addthis_button {
+.share {
 	text-transform: uppercase;
 	color: #000;
 	font-weight: 600;
 }
 
+.next-event {
+	.social {
+		margin-top: 30px;
+	}
+}
+
 .row {
-	margin-bottom: 30px;
+	margin-bottom: 15px;
+	@media (min-width: $screen-xs-min) {
+		& {
+			margin-bottom: 30px;
+		}
+	}
 }
 
 img {
 	max-width: 100%;
+	margin-bottom: 5px;
 	height: auto;
 }
 
@@ -120,6 +153,9 @@ nav {
 	color: #fff;
 	position: relative;
 	height: 200px;
+	h1, h2 {
+		color: #fff!important;
+	}
 	@media (min-width: $screen-xs-min) {
 		& {
 			height: 400px;
@@ -208,7 +244,6 @@ a.gallery-cell:hover, a.gallery-cell:active {
 
 footer {
 	padding-top: 1em;
-	border-top: 1px solid gray;
 	@media (min-width: $screen-sm-min) {
 		.follow {
 			text-align: right;
@@ -225,6 +260,15 @@ footer {
 	}
 }
 
-.grid img {
-	width: 100%;
+.grid {
+	img {
+		width: 100%;
+	}
+	a:link, a:visited {
+		color: #000;
+	}
+}
+
+.content-header {
+	margin-bottom: 10px;
 }

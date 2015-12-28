@@ -1,6 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Intermission
+deletable: false
 pages:
   template: mix
   num:
@@ -26,10 +27,6 @@ fields:
         label: Page
         type: select
         options: children
-      image:
-        label: Display Image
-        type: checkbox
-        default: 1
   text:
     label: Text
     type:  textarea

@@ -5818,10 +5818,17 @@ body {
   font-family: "futura-pt-condensed", sans-serif;
   font-weight: 800; }
 
+.peek h2 {
+  border-top: 1px solid #ccc;
+  padding-top: 15px; }
+
 h1, h2, h3, h4, h5, h6, nav {
   font-family: "futura-pt", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px; }
+
+a:link h1, a:link h2, a:link h3, a:link h4, a:link h5, a:link h6, a:visited h1, a:visited h2, a:visited h3, a:visited h4, a:visited h5, a:visited h6 {
+  color: #000; }
 
 h1 {
   font-size: 22px;
@@ -5829,7 +5836,14 @@ h1 {
 
 h2 {
   font-size: 14px;
-  font-weight: 800 !important; }
+  font-weight: 800 !important;
+  margin-bottom: 5px; }
+
+h3 {
+  font-size: 14px;
+  font-weight: 100 !important;
+  margin-top: 0;
+  margin-bottom: 10px; }
 
 header {
   text-align: center;
@@ -5839,16 +5853,23 @@ header {
   header h1 {
     padding-bottom: 10px; }
 
-.addthis_button {
+.share {
   text-transform: uppercase;
   color: #000;
   font-weight: 600; }
 
+.next-event .social {
+  margin-top: 30px; }
+
 .row {
-  margin-bottom: 30px; }
+  margin-bottom: 15px; }
+  @media (min-width: 480px) {
+    .row {
+      margin-bottom: 30px; } }
 
 img {
   max-width: 100%;
+  margin-bottom: 5px;
   height: auto; }
 
 nav {
@@ -5949,6 +5970,8 @@ nav {
   line-height: 1;
   width: 100%;
   padding: 0 50px; }
+  .jumbotron h1, .jumbotron h2 {
+    color: #fff !important; }
   @media (min-width: 480px) {
     .jumbotron {
       height: 400px; } }
@@ -6012,8 +6035,7 @@ a.gallery-cell:hover, a.gallery-cell:active {
   text-align: center; }
 
 footer {
-  padding-top: 1em;
-  border-top: 1px solid gray; }
+  padding-top: 1em; }
   @media (min-width: 768px) {
     footer .follow {
       text-align: right; } }
@@ -6027,5 +6049,10 @@ footer {
 
 .grid img {
   width: 100%; }
+.grid a:link, .grid a:visited {
+  color: #000; }
+
+.content-header {
+  margin-bottom: 10px; }
 
 /*# sourceMappingURL=default.css.map */

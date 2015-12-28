@@ -1,7 +1,8 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Page
+title: Studio
 pages: true
+  template: project
 files: true
 fields:
   title:
@@ -13,16 +14,6 @@ fields:
   herobackgroundcolor:
   	label: Hero Background Color
   	type: color
-  carousel:
-    label: Carousel
-    type: structure
-    entry: >
-      {{page}}<br />
-    fields:
-      page:
-        label: Page
-        type: select
-        options: children
   text:
     label: Text
     type:  textarea
