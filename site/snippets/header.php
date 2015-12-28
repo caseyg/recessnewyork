@@ -45,7 +45,6 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
-  <link rel="stylesheet" href="/node_modules/flickity/dist/flickity.css" media="screen">
   <?php echo css('assets/css/default.css') ?>  
 </head>
 <body id="<?php echo $page->slug() ?>">
