@@ -23,3 +23,7 @@ Carousel:
 - 
   page: Foam-Tennis-2015
   image: "0"
+- 
+  page: bocce-2012
+- 
+  page: badminton-2011
