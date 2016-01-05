@@ -45,7 +45,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
-  <?php echo css('assets/css/default.css') ?>  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <?php echo css('assets/css/default.css') ?>
 </head>
 <body id="<?php echo $page->slug() ?>">
 <div class="container">
