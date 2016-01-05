@@ -12,6 +12,7 @@
   "main": "Gruntfile.js",
   "dependencies": {
     "bootstrap": "^3.3.6",
+    "bootstrap-sass": "^3.3.6",
     "flickity": "^1.1.2",
     "isotope-layout": "^2.2.2",
     "jquery": "^2.1.4"
