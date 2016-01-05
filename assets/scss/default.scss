@@ -98,6 +98,7 @@ img {
 nav {
 	line-height: 80px;
 	font-size: 15px;
+
 	a:link, a:visited {
 		color: #000;
 	}
@@ -127,6 +128,9 @@ nav {
 		@include make-xs-column(3);
 		@include make-sm-column(2);
 		@include make-md-column(1);
+	}
+	.intermission, .about {
+		padding: 0;
 	}
 	.home {
 		text-align: center;
@@ -158,6 +162,7 @@ nav {
 	color: #fff;
 	position: relative;
 	height: 200px;
+	border-radius: 0px!important;
 	h1, h2 {
 		color: #fff!important;
 	}
