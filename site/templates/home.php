@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <div class="row">
-	<?php snippet('hero') ?>
+	<?php snippet('homepage-carousel') ?>
 </div>
 
 <div class="row peek">

@@ -1,0 +1,21 @@
+Sort: 1
+
+----
+
+Slidecolor: 
+
+----
+
+Slideoverlay: 0
+
+----
+
+Slidesubtitle: 
+
+----
+
+Slidetitle: 
+
+----
+
+Slidelink: 
