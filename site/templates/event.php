@@ -28,15 +28,28 @@
 	<?php if($page->images()->count() > 1): ?>
 		<div class="gallery js-flickity">
 			<?php 
-			foreach( $page->images() as $slide): ?>
-				<?php if($slide->filename() != 'thumbnail.jpg'): ?>
-					<figure class="gallery-cell col-xs-12">
-						<img src="<?php echo $slide->url() ?>">
-					</figure>
-				<?php endif ?>
+			$images = $page->images()->filter(function($image){
+				return !str::contains($image->filename(), 'sponsor') && !str::contains($image->filename(), 'thumbnail');
+			});
+			foreach( $images as $slide): ?>
+				<figure class="gallery-cell col-xs-12">
+					<img src="<?php echo $slide->url() ?>">
+				</figure>
 			<?php endforeach ?>
 			<div class="lead gallery-cell col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 				<?php echo $page->text()->kt() ?>
+				<?php if ($page->images()->filterBy('filename', '*=', 'sponsor')->count() > 0): ?>
+					<section class="sponsors">
+					<p>Sponsored by:</p>
+						<?php foreach ($page->images()->filterBy('filename', '*=', 'sponsor') as $sponsor): ?>
+							<?php if ($sponsor->link()->isNotEmpty()): ?>
+								<a href="<?php echo $sponsor->link() ?>"><img src="<?php echo $sponsor->url() ?>"></a>
+							<?php else: ?>
+								<img src="<?php echo $sponsor->url() ?>">
+							<?php endif ?>
+						<?php endforeach ?>
+					</section>
+				<?php endif ?>
 			</div>
 		</div>
 	<?php else: ?>

@@ -3,6 +3,11 @@
 title: Event
 pages: false
 files: true
+  sortable: true
+  fields:
+    link:
+      label: Link
+      type: url
 fields:
   title:
     label: Title

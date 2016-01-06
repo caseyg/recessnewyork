@@ -11,12 +11,9 @@ style="color:orange">COURT16</a>
 
 Text: 
 
-### Foam tennis, the final recess challenge of the summer!
+# Foam tennis, the final recess challenge of the summer!
 
 Join us for the last RECESS challenge of 2015 at this beautiful kids 6-court indoor tennis facility in the Gowanus neighborhood. FOAM tennis is an incredibly fun version of regular tennis using foam balls and junior rackets. Come check out what the rage is all about!
-
-Sponsored By:
-(image: sponsors.png)
 
 ----
 
@@ -24,7 +21,7 @@ Fb-description: Check out FOAM TENNIS with the RECESS community at Court 16 on T
 
 ----
 
-Date: 2015-01-01
+Date: 2016-01-22
 
 ----
 

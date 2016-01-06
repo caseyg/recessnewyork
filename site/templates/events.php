@@ -18,6 +18,18 @@
 			</div>
 			<div class="col-sm-6 next-event">
 				<?php echo $subpage->text()->kt() ?>
+				<?php if ($subpage->images()->filterBy('filename', '*=', 'sponsor')->count() > 0): ?>
+					<section class="sponsors">
+					<p>Sponsored by:</p>
+						<?php foreach ($subpage->images()->filterBy('filename', '*=', 'sponsor') as $sponsor): ?>
+							<?php if ($sponsor->link()->isNotEmpty()): ?>
+								<a href="<?php echo $sponsor->link() ?>"><img src="<?php echo $sponsor->url() ?>"></a>
+							<?php else: ?>
+								<img src="<?php echo $sponsor->url() ?>">
+							<?php endif ?>
+						<?php endforeach ?>
+					</section>
+				<?php endif ?>					
 				<ul class="social list-inline">
 					<?php if(!$subpage->tickets()->isEmpty()): ?><li><a class="share" href="<?php echo $subpage->tickets() ?>">Purchase Tickets</a></li><?php endif ?>
 					<li>

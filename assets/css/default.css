@@ -5985,6 +5985,10 @@ header {
 
 .next-event .social {
   margin-top: 30px; }
+.next-event h1, .next-event h2 {
+  margin-top: 0; }
+.next-event .sponsors img {
+  margin-right: 15px; }
 
 .row {
   margin-bottom: 15px; }
