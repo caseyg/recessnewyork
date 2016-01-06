@@ -1,7 +1,9 @@
 <?php snippet('header') ?>
 
 <div class="row">
-	<?php snippet('hero'); ?>
+	<figure class="col-xs-12">
+		<img src="<?php echo $page->images()->find('hero.jpg', 'hero.png')->first()->url() ?>" alt="<?php if($page->subtitle()): ?><?php echo $page->subtitle() ?><?php endif ?><?php if($page->title()): ?>: <?php echo $page->title() ?><?php endif ?>">
+	</figure>
 </div>
 
 <div class="row">
