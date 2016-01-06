@@ -27,7 +27,7 @@ body {
 	}
 }
 
-h1, h2, h3, h4, h5, h6, nav {
+h1, h2, h3, h4, h5, h6, nav, footer, .btn {
 	font-family: "futura-pt", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -255,6 +255,21 @@ a.gallery-cell:hover, a.gallery-cell:active {
 
 footer {
 	padding-top: 1em;
+	input {
+		border-radius: 0!important;
+	}
+	.btn {
+		border: none;
+		font-weight: bold;
+		float:right;
+		@media (min-width:$screen-md-min) {
+			& {float:none;clear:right;}
+		}
+	}
+	.btn:hover {
+		background: transparent;
+		text-decoration: underline;
+	}
 	@media (min-width: $screen-sm-min) {
 		.follow {
 			text-align: right;

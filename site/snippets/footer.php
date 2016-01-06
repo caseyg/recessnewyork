@@ -1,7 +1,7 @@
 		<hr>
 		<footer class="row">
 			<!-- Begin MailChimp Signup Form -->
-			<div id="mc_embed_signup" class="form-inline col-xs-12 col-sm-6">
+			<div id="mc_embed_signup" class="form-inline col-xs-12 col-sm-7">
 			<form action="//recessnewyork.us3.list-manage.com/subscribe/post?u=d7fd7e8a4f6eebf73bf06bdc2&amp;id=e18659fdfb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    <div id="mc_embed_signup_scroll">
 					<div class="mc-field-group form-group">
@@ -18,7 +18,7 @@
 			</form>
 			</div>
 			<!--End mc_embed_signup-->
-			<ul class="follow list-inline col-xs-12 col-sm-6">
+			<ul class="follow list-inline col-xs-12 col-sm-5">
 				<li><strong>Follow Us:</strong></li>
 				<li><a href=""><i class="fa fa-facebook"></i></a></li>
 				<li><a href=""><i class="fa fa-instagram"></i></a></li>
