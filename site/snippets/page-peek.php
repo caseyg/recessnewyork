@@ -36,7 +36,7 @@
 		<h3><?php echo $subpage->title() ?></h3>
 
 		<?php if ($subpage->hasImages()): ?>	
-			<img src="<?php echo $subpage->images()->first()->crop('263')->url() ?>" alt="">
+			<img src="<?php echo $subpage->images()->first()->crop('375')->url() ?>" alt="">
 		<?php endif ?>
 	</a>
 	<?php endforeach ?>
