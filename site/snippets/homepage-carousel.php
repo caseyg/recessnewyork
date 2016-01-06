@@ -1,4 +1,4 @@
-<div class="hero gallery js-flickity">
+<div class="hero gallery js-flickity" data-flickity-options='{"autoPlay": true, "wrapAround": true}'>
 	<?php foreach($page->images()->sortBy(sort, asc) as $slide): ?>
 		<?php if($slide->slideLink()->isNotEmpty()): ?>
 			<a class="gallery-cell col-xs-12" href="<?php echo $slide->slideLink() ?>">	

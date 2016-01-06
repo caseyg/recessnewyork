@@ -1,4 +1,4 @@
-<div class="hero gallery js-flickity">
+<div class="hero gallery js-flickity" data-flickity-options='{"autoPlay": true, "wrapAround": true}'>
 	<?php foreach( $page->children()->limit(4) as $hero): ?>
 		<a class="gallery-cell col-xs-12" href="<?php echo $hero->url() ?>">
 			<div class="jumbotron" style="background-color: <?php echo $hero->herobackgroundcolor() ?>; background-image: url('<?php echo $hero->images()->first()->url() ?>');">

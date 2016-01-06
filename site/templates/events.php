@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <div class="row">
-	<?php snippet('hero') ?>
+	<?php snippet('events-carousel') ?>
 </div>
 
 <?php if ($page->children()->filterBy('date', '>', time())->count() > 0): ?>
