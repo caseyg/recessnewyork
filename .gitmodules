@@ -4,9 +4,3 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
-[submodule "site/plugins/kirbycms-extension-webhelper"]
-	path = site/plugins/kirbycms-extension-webhelper
-	url = https://github.com/fanningert/kirbycms-extension-webhelper.git
-[submodule "site/plugins/kirbycms-extension-image"]
-	path = site/plugins/kirbycms-extension-image
-	url = https://github.com/fanningert/kirbycms-extension-image.git
