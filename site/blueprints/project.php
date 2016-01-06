@@ -3,16 +3,14 @@
 title: Event
 pages: false
 files: true
+  sortable: true
 fields:
   title:
     label: Title
-    type:  text
-  subtitle:
-    label: Subtitle
-    type:  text
+    type: text
   text:
     label: Text
     type:  textarea
-  herobackgroundcolor:
-    label: Hero Background Color
-    type: color
+  vimeo:
+    label: Vimeo Embed Code
+    type: textarea
