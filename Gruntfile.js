@@ -38,5 +38,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-php');
+  grunt.loadNpmTasks('grunt-image');
   grunt.registerTask('default',['php:watch', 'watch']);
 }
