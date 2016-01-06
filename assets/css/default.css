@@ -6039,6 +6039,8 @@ nav {
       nav .events, nav .intermission, nav .about, nav .studio {
         float: left;
         width: 8.33333%; } }
+  nav .intermission, nav .about {
+    padding: 0; }
   nav .home {
     text-align: center;
     position: relative;
@@ -6089,6 +6091,7 @@ nav {
   color: #fff;
   position: relative;
   height: 200px;
+  border-radius: 0px !important;
   line-height: 1;
   width: 100%;
   padding: 50px; }
