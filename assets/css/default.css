@@ -6182,6 +6182,8 @@ footer {
   footer .btn:hover {
     background: transparent;
     text-decoration: underline; }
+  footer a:link, footer a:visited {
+    color: #000; }
   @media (min-width: 768px) {
     footer .follow {
       text-align: right; } }

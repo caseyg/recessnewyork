@@ -280,6 +280,9 @@ footer {
 		background: transparent;
 		text-decoration: underline;
 	}
+	a:link, a:visited {
+		color: #000;
+	}
 	@media (min-width: $screen-sm-min) {
 		.follow {
 			text-align: right;
