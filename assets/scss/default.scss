@@ -238,6 +238,23 @@ a.gallery-cell:hover, a.gallery-cell:active {
 	}
 }
 
+.studio {
+	.flickity-prev-next-button {
+		background-color: transparent;
+		.arrow {
+			fill: #ccc;
+		}
+		&:hover .arrow {
+			fill: #000;
+		}
+		@media (min-width: $screen-xs-min) {
+			& {
+				display: block;
+			}
+		}
+	}	
+}
+
 .hero.gallery {
 	height: 200px;
 	@media (min-width: $screen-xs-min) {
@@ -261,6 +278,12 @@ a.gallery-cell:hover, a.gallery-cell:active {
 		transform: translateY(-50%);
 		text-align: center;
 	}
+}
+
+.gallery-status {
+	width: 100%;
+	text-align: center;
+	margin-top: 45px;
 }
 
 footer {

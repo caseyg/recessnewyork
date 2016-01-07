@@ -20,35 +20,14 @@
           transition: opacity 0.24s ease-in-out;
   }
   </style>
-  <script src="/assets/js/app.min.js"></script>
-  <script>
-  $(function() {
-      WebFont.load({
-      typekit: {
-        id: 'aqj4zae'
-      },
-          active: function() {
-        $(".jumbotron").bigtext({
-            childSelector: 'h1'
-        });
-              $('header').css('visibility', 'visible').css('opacity', 1);
-          },
-          inactive: function() {
-        $(".jumbotron").bigtext({
-            childSelector: 'h1'
-        });
-              $('header').css('visibility', 'visible').css('opacity', 1);         
-          }
-      });
-  });
-  </script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <?php echo css('assets/css/default.css') ?>
+  <script src="/assets/js/app.min.js"></script>
 </head>
-<body id="<?php echo $page->slug() ?>">
+<body id="<?php echo $page->slug() ?>" class="<?php echo $page->parent()->slug() ?>">
 <div class="container">
   <nav class="row">
     <ul class="list-inline">

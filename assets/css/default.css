@@ -6148,6 +6148,16 @@ a.gallery-cell:hover, a.gallery-cell:active {
     .flickity-prev-next-button {
       display: block; } }
 
+.studio .flickity-prev-next-button {
+  background-color: transparent; }
+  .studio .flickity-prev-next-button .arrow {
+    fill: #ccc; }
+  .studio .flickity-prev-next-button:hover .arrow {
+    fill: #000; }
+  @media (min-width: 480px) {
+    .studio .flickity-prev-next-button {
+      display: block; } }
+
 .hero.gallery {
   height: 200px;
   overflow: hidden; }
@@ -6166,6 +6176,11 @@ a.gallery-cell:hover, a.gallery-cell:active {
   top: 50%;
   transform: translateY(-50%);
   text-align: center; }
+
+.gallery-status {
+  width: 100%;
+  text-align: center;
+  margin-top: 45px; }
 
 footer {
   padding-top: 1em; }

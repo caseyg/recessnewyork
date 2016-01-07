@@ -1,5 +1,5 @@
 <?php if($page->carousel()->isNotEmpty()): ?>
-	<div class="hero gallery js-flickity" data-flickity-options='{"autoPlay": true, "wrapAround": true}'>
+	<div class="hero gallery js-flickity" data-flickity-options='{"autoPlay": true, "wrapAround": true, "pageDots": false}'>
 		<?php 
 		$slides = $page->carousel()->yaml();
 		foreach( $slides as $slide): ?>

@@ -32,7 +32,7 @@
 
 <?php if($page->images()->count() > 1): ?>
 	<div class="row">
-		<div class="gallery js-flickity">
+		<div class="gallery">
 			<?php 
 			foreach( $page->images() as $slide): ?>
 				<?php if($slide->filename() != 'thumbnail.jpg'): ?>
@@ -42,6 +42,7 @@
 				<?php endif ?>
 			<?php endforeach ?>
 		</div>
+		<div class="gallery-status"></div>
 	</div>
 <?php endif ?>
 
@@ -52,5 +53,19 @@
 <div class="row">
 	<?php snippet('projects') ?>
 </div>
+<script>
+var $gallery = $('.gallery').flickity({
+	"wrapAround": true,
+	"pageDots": false
+});
+var $galleryStatus = $('.gallery-status');
+var flkty = $gallery.data('flickity');
 
+function updateStatus() {
+	var cellNumber = flkty.selectedIndex + 1;
+	$galleryStatus.text( cellNumber + '/' + flkty.cells.length );
+}
+updateStatus();
+$gallery.on( 'cellSelect', updateStatus);
+</script>
 <?php snippet('footer') ?>

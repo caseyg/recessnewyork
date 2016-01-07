@@ -26,7 +26,7 @@
 
 <div class="row">
 	<?php if($page->images()->count() > 1): ?>
-		<div class="gallery js-flickity">
+		<div class="gallery">
 			<?php 
 			$images = $page->images()->filter(function($image){
 				return !str::contains($image->filename(), 'sponsor') && !str::contains($image->filename(), 'thumbnail');
@@ -52,6 +52,7 @@
 				<?php endif ?>
 			</div>
 		</div>
+		<div class="gallery-status"></div>
 	<?php else: ?>
 		<div class="lead gallery-cell col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 			<?php echo $page->text()->kt() ?>
@@ -66,5 +67,19 @@
 <div class="row">
 	<?php snippet('date-grid', array('page' => $site->pages()->find('events'))); ?>
 </div>
+<script>
+var $gallery = $('.gallery').flickity({
+	"wrapAround": true,
+	"pageDots": false
+});
+var $galleryStatus = $('.gallery-status');
+var flkty = $gallery.data('flickity');
 
+function updateStatus() {
+	var cellNumber = flkty.selectedIndex + 1;
+	$galleryStatus.text( cellNumber + '/' + flkty.cells.length );
+}
+updateStatus();
+$gallery.on( 'cellSelect', updateStatus);
+</script>
 <?php snippet('footer') ?>

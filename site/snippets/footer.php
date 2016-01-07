@@ -26,5 +26,26 @@
 			</ul>
 		</footer>
 	</div>
+<script>
+$(function() {
+  WebFont.load({
+  typekit: {
+    id: 'aqj4zae'
+  },
+      active: function() {
+    $(".jumbotron").bigtext({
+        childSelector: 'h1'
+    });
+          $('header').css('visibility', 'visible').css('opacity', 1);
+      },
+      inactive: function() {
+    $(".jumbotron").bigtext({
+        childSelector: 'h1'
+    });
+          $('header').css('visibility', 'visible').css('opacity', 1);         
+      }
+  });
+});
+</script>
 </body>
 </html>
