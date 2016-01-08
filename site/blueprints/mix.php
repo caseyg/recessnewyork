@@ -26,6 +26,5 @@ fields:
     label: Hero Background Color
     type: color
   mixcloud:
-    label: Mixcloud Embed Code
-    type: textarea
-    buttons: false
+    label: Mixcloud URL
+    type: link
