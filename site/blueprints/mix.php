@@ -27,4 +27,4 @@ fields:
     type: color
   mixcloud:
     label: Mixcloud URL
-    type: link
+    type: url
