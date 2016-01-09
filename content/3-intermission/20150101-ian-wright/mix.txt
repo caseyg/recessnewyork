@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Black Rock - The New York City Bump
 02. Ray Pollard - The Drifter
 03. The Impressions - Sooner Or Later
@@ -9,12 +10,26 @@ tracklist:
 08. Gonjasufi - Duet
 09. Falty DL - Hip Love (Jamie XX mix)
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Ian Wright
+
 ----
-title: Ian Wright
+
+Author-website: http://www.mrianwright.co.uk
+
 ----
-author_website: http://www.mrianwright.co.uk
+
+Text: I must have been about nine when my dad brought home the huge Radiogram. He installed an extra speaker on the landing, right outside my bedroom so that we could have music upstairs. On Friday nights I would lie in the dark, drifting off to sleep whilst listening to Radio Luxembourg, which seem to come in over the shifting airwaves from somewhere beyond. That early introduction to sound must have shaped my listening habits forever.
+
 ----
-text: I must have been about nine when my dad brought home the huge Radiogram. He installed an extra speaker on the landing, right outside my bedroom so that we could have music upstairs. On Friday nights I would lie in the dark, drifting off to sleep whilst listening to Radio Luxembourg, which seem to come in over the shifting airwaves from somewhere beyond. That early introduction to sound must have shaped my listening habits forever.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ian-wright-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Dance Yrself Clean - LCD Soundsystem
 02. BTSTU - Jai Paul
 03. Walk On The Wild Side (Holtoug Bootleg)- Lou Reed
@@ -7,13 +8,26 @@ tracklist:
 06. Celebrating Nothing - Phantogram
 07. Il Cielo in Una Stanza - Mina
 
-
-
 ----
+
 Date: 2015-01-01
+
 ----
-title: Jules Kim
+
+Title: Jules Kim
+
 ----
-author_website: http://bijulesnyc.com
+
+Author-website: http://bijulesnyc.com
+
 ----
-text: RECESS makes me relax and think about my childhood tomboy-ness. I apply that attitude to my work. I really don't think we should take ourselves too adult serious. Work hard, RECESS hard.
+
+Text: RECESS makes me relax and think about my childhood tomboy-ness. I apply that attitude to my work. I really don't think we should take ourselves too adult serious. Work hard, RECESS hard.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jules-kim-for-intermission/

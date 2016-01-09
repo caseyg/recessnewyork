@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Endless Summer  - The Sandals
 02. Apache - The Ventures
 03. Sunday Date - Flee-Rekkers
@@ -10,14 +11,27 @@ tracklist:
 09. Brown Girl in the Ring - The Maytones
 10. You Don't Love Me - Dawn Penn
 11. Be Thankful For What You've Got - Bunny "Ruggs" Scott
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Murphy
-----
-author_website: http://therealmurphy.com
-----
-text: A beach mix that'll cool you down as the sun sets and the day culminates into the perfect summer night.
 
+----
+
+Title: Murphy
+
+----
+
+Author-website: http://therealmurphy.com
+
+----
+
+Text: A beach mix that'll cool you down as the sun sets and the day culminates into the perfect summer night.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/murphy-for-intermission/

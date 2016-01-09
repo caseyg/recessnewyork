@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Bibio - A tout a l'heure
 02. Cayucas - High School Lover
 03. CHVRCHES - Recover
@@ -9,12 +10,26 @@ tracklist:
 08. Washed Out - It All Feels Right
 09. King Krule - Easy Easy
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jamin Warren
+
 ----
-title: Jamin Warren
+
+Author-website: http://www.killscreendaily.com
+
 ----
-author_website: http://www.killscreendaily.com
+
+Text: My favorite RECESS has to be the glow of the city after you emerge from a patio or backyard bar and spill out onto the street. That's the first thing I remember about moving to New York and will carry that warmth with me forever.
+
 ----
-text: My favorite RECESS has to be the glow of the city after you emerge from a patio or backyard bar and spill out onto the street. That's the first thing I remember about moving to New York and will carry that warmth with me forever.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jamin-warren-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. White Label (edit)
 02. Ess O Ess- Baboon (Tiago Remix)
 03. Chaz Jankel- Glad To Know You (Ray Mang's Flying dub)
@@ -7,11 +8,25 @@ tracklist:
 06. Dr. Beat from San Sebastien- Mediterraneo (DJ Harvey's Beach to the Bar Mix)
 
 ----
-Date: 2015-01-01
-----
-title: Patrick Wood
-----
-author_website: https://soundcloud.com/woodywoodjr
-----
-text: My concept of RECESS can be easily summed up in one word...Freedom.
 
+Date: 2015-01-01
+
+----
+
+Title: Patrick Wood
+
+----
+
+Author-website: https://soundcloud.com/woodywoodjr
+
+----
+
+Text: My concept of RECESS can be easily summed up in one word...Freedom.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/patrick-wood-for-intermission/

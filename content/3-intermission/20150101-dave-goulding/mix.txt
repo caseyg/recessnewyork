@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Al Green - Simply Beautiful
 02. Barbara McNair - Steal Away
 03. Al Hirt - Harlem Hendoo
@@ -8,13 +9,26 @@ tracklist:
 07. Sonia Rosa - La Chason D'Orphee
 08. Mikey Baker - Pour Monique
 
-
-
 ----
+
 Date: 2015-01-01
+
 ----
-title: Dave Goulding
+
+Title: Dave Goulding
+
 ----
-author_website: http://www.mixcloud.com/forlanasuite
+
+Author-website: http://www.mixcloud.com/forlanasuite
+
 ----
-text: Man, I loved that red car, cassettes tumbling around down the winding rounds to get there. You have to park up right up the back. Then we walk down the tree-lined path in silence, which opens up to the rocks that fall down to the sea. Climbing down the rocks it takes a while, then we are there, our own personal beach.
+
+Text: Man, I loved that red car, cassettes tumbling around down the winding rounds to get there. You have to park up right up the back. Then we walk down the tree-lined path in silence, which opens up to the rocks that fall down to the sea. Climbing down the rocks it takes a while, then we are there, our own personal beach.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/dave-goulding-for-intermission/

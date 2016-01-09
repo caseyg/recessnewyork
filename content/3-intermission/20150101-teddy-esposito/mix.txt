@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Grand Master Melle Mel - Sport - Teddy Esposito Made in NY mix (WORLD PREMIERE/UNRELEASED)
 02. Sade - Is It A Crime - Remix by unknown (UNRELEASED)
 03. Elaquent (ft. Esta) - Aurora - Original mix
@@ -12,10 +13,25 @@ tracklist:
 11. Ennio Morricone (ft. Yo-Yo Ma) - Cinema Paradiso - Teddy Esposito Made in NY mix  (UNRELEASED)
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Teddy Esposito
+
+Title: Teddy Esposito
+
 ----
-author_website: https://www.youtube.com/user/GROOVINRECORDSNY
+
+Author-website: https://www.youtube.com/user/GROOVINRECORDSNY
+
 ----
-text: Time with family and friends is precious to me. You get to know me by the music I play. Love and Peace to the Human family.
+
+Text: Time with family and friends is precious to me. You get to know me by the music I play. Love and Peace to the Human family.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/teddy-esposito-for-intermission/

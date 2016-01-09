@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 1. Remind Me - Patrice Rushen
 2. Forget Me Nots - Patrice Rushen
 3. Break It To Me Gently - Brenda Lee
@@ -8,13 +9,27 @@ tracklist:
 7. I Want Your Love - Chic
 8. Love Come Down - Evelyn "Champagne" King
 9. In My Bed - Amy Winehouse
-  
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Michaela Biasucci
+
+Title: Michaela Biasucci
+
 ----
-author_website: http://www.honeymoonwith.us
+
+Author-website: http://www.honeymoonwith.us
+
 ----
-text: A playlist dedicated to the Fall in New York, and my new home. These songs will accompany me in sitting on a corner somewhere along West 4th St, Friendsgiving or "FRO" with good friends and good dogs, and lying on my best friend's apartment floor, someone pouring us another glass of wine we definitely don't need.
+
+Text: A playlist dedicated to the Fall in New York, and my new home. These songs will accompany me in sitting on a corner somewhere along West 4th St, Friendsgiving or "FRO" with good friends and good dogs, and lying on my best friend's apartment floor, someone pouring us another glass of wine we definitely don't need.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/michaela-biasucci-for-intermission/

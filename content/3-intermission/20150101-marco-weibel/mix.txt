@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 1. Jazz Orkestar Radio-Televizije Beograd - Macka
 2. ChrisAre - Lurk
 3. The Valentine Brothers - Just Let Me Be Close To You
@@ -9,12 +10,26 @@ tracklist:
 8. Lionel Richie - Love Will Find A Way (Super Fuzz 3000 Edit)
 9. Michael Boothman - What You Won't Do For Love
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Marco Weibel
+
 ----
-title: Marco Weibel
+
+Author-website: http://www.darkerthanwax.com
+
 ----
-author_website: http://www.darkerthanwax.com
+
+Text: Music, the deepest RECESS of the mind. From tearing shrink wrap off new wax, to cuing up, to the joyful noise. This quick mix was done on a lazy Sunday morning, two 1200s, a mixer, some records and scratch live. Straight out of sunny Singapore, a sonic travel through Jazz, Boogie, Brazilian, Hip Hop and BEYOND. Hope you dig!
+
 ----
-text: Music, the deepest RECESS of the mind. From tearing shrink wrap off new wax, to cuing up, to the joyful noise. This quick mix was done on a lazy Sunday morning, two 1200s, a mixer, some records and scratch live. Straight out of sunny Singapore, a sonic travel through Jazz, Boogie, Brazilian, Hip Hop and BEYOND. Hope you dig!
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/marco-weibel-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Lafayette Afro Rock Band - Darkest Hour
 02. Jay-Z - Crown (intro)
 03. Jay-Z - F.U.T.W.
@@ -15,13 +16,26 @@ tracklist:
 14. Daft Punk - Get Lucky
 15. Kotchy - Falling In Love
 
-
 ----
+
 Date: 2015-01-01
-----
-title: Rostarr
-----
-author_website: http://rostarr.com
-----
-text: My RECESS is painting in my studio and listening to 80's & 90's Hip Hop, Rare Groove, Reggae, Latin Funk, New Wave, Experimental, etc. and also discovering new music from different genres & countries. For me, music & art go hand in hand (or should I say hand in brush). I honestly couldn't imagine creating in any other way. 
 
+----
+
+Title: Rostarr
+
+----
+
+Author-website: http://rostarr.com
+
+----
+
+Text: My RECESS is painting in my studio and listening to 80's & 90's Hip Hop, Rare Groove, Reggae, Latin Funk, New Wave, Experimental, etc. and also discovering new music from different genres & countries. For me, music & art go hand in hand (or should I say hand in brush). I honestly couldn't imagine creating in any other way.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/rostarr-for-intermission/

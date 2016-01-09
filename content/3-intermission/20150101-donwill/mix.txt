@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Saturday Love - Toro y Moi
 02. Dontcha - The Internet
 03. Hold Tight - Majid Jordan
@@ -11,12 +12,26 @@ tracklist:
 10. Kansas - Charlie Red
 11. The Only One - Tanya Morgan
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Donwill
+
 ----
-title: Donwill
+
+Author-website: http://donwill.me
+
 ----
-author_website: http://donwill.me
+
+Text: Dance like no one is watching and watch like everyone is dancing. Just don't watch your watch because you can't that get time back and last call is sooner than you think. So stop thinking and start doing.
+
 ----
-text: Dance like no one is watching and watch like everyone is dancing. Just don't watch your watch because you can't that get time back and last call is sooner than you think. So stop thinking and start doing. 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/donwill-for-intermission/

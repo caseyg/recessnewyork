@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Jamie xx - I Know There's Gonna Be (Good Times) feat. Young Thug & Popcaan
 02. Little Joy - The Next Time Around
 03. DJ Nu-Mark - Oya' Indebure feat. Laudir DeOliveira
@@ -15,14 +16,27 @@ tracklist:
 14. Billie Holiday - Summertime (Organica Remix)
 15. Sevdaliza - Clear Air (Jarreau Vandal Remix)
 16. Vader The Villin - Vibe Out Fella feat. Niki Cremmen
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Matt FX
-----
-author_website: https://twitter.com/mattfxfxfxfx
-----
-text: My Recess - Scooter Island is the aural representation of everything I hold dear about New York summers. The breeze, the heat, the hustle - all of it.
 
+----
+
+Title: Matt FX
+
+----
+
+Author-website: https://twitter.com/mattfxfxfxfx
+
+----
+
+Text: My Recess - Scooter Island is the aural representation of everything I hold dear about New York summers. The breeze, the heat, the hustle - all of it.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/matt-fx-for-intermission/

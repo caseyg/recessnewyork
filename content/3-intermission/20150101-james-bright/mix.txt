@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Peter Lyons - Touch Me
 02. Toby Gale - 15 Love
 03. Matthewdavid - Locket (Chi Flip)
@@ -8,15 +9,28 @@ tracklist:
 07. Dimlite - XY
 08. Sufjan Stevens - Too Much 
 09. D33J - Park ( Tape Version )
-10. Dogtanion - House 
-
+10. Dogtanion - House
 
 ----
+
 Date: 2015-01-01
-----
-title: Mr James Bright aka Hairy Hands
-----
-author_website: http://www.iamhairyhands.com
-----
-text: It's all about the little details. Things you miss if you don't have your eyes and ears open. Aside from making music and illustrating, one of my favorite things to do is ride. It's a special experience that tickles the  senses. I've never quite managed this trick (pictured left) although I haven't stopped trying to master it. Let's all open our eyes and ears together.
 
+----
+
+Title: Mr James Bright aka Hairy Hands
+
+----
+
+Author-website: http://www.iamhairyhands.com
+
+----
+
+Text: It's all about the little details. Things you miss if you don't have your eyes and ears open. Aside from making music and illustrating, one of my favorite things to do is ride. It's a special experience that tickles the  senses. I've never quite managed this trick (pictured left) although I haven't stopped trying to master it. Let's all open our eyes and ears together.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/mr-james-bright-aka-hairy-hands-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Amerie - 1 Thing (Stimulated Remix) 
 02. Brand Nubian - Allah U Akbar 
 03. Joey Bada$$ - Death of YOLO 
@@ -10,12 +11,26 @@ tracklist:
 09. Lil Wayne - Rich as F*ck 
 10. Knxwledge - strtdfrmthebttm
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jason Lewis
+
 ----
-title: Jason Lewis
+
+Author-website: http://www.jasonglewis.com
+
 ----
-author_website: http://www.jasonglewis.com
+
+Text: mix with ice cream and sunshine and enjoy!
+
 ----
-text: mix with ice cream and sunshine and enjoy!
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jason-lewis-for-intermission/

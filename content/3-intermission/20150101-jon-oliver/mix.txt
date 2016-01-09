@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. wildcat! wildcat! - mr. quiche
 02. erika spring - hidden (jensen sportag remix)
 03. !!! - one girl / one boy
@@ -9,12 +10,26 @@ tracklist:
 08. the hics - lines (demo version)
 09. the foreign exchange - everything must go
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jon Oliver
+
 ----
-title: Jon Oliver
+
+Author-website: http://www.jonolivermusic.com
+
 ----
-author_website: http://www.jonolivermusic.com
+
+Text: My RECESS is long motorcycle rides north along the Hudson, summer nights at Lake George, re-listening to the week's new finds on my iPod on the way home from my radio show, sitting on my parent's back porch, kayaking through phosphorescence off the San Juan Islands, Tuesday soccer by street light and time spent by ANY natural body of water.
+
 ----
-text: My RECESS is long motorcycle rides north along the Hudson, summer nights at Lake George, re-listening to the week's new finds on my iPod on the way home from my radio show, sitting on my parent's back porch, kayaking through phosphorescence off the San Juan Islands, Tuesday soccer by street light and time spent by ANY natural body of water.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jon-oliver-for-intermission/

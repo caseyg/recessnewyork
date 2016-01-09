@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Broadcast - Look Outside
 02. Aphex Twin - DISKPREPT1
 03. Can - All Gates Open
@@ -8,15 +9,27 @@ tracklist:
 07. John & Beverley Martyn - Go Out And Get It
 08. Outkast - Dracula's Wedding (ft. Kelis)
 09. Morrissey - Dial A Cliche
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Saidah Blount
-----
-author_website: https://twitter.com/saibellanyc
-----
-text: Roll down the windows, pump up the bass. For as long as I've had arm's access to the radio dial, programming music in the car has been a #1 joy of mine. And as soon as I got a driver's license, the freedom of blasting tunes in the whip changed everything. For this mix, I imagined a road trip with friends - a weekend RECESS.
 
+----
 
+Title: Saidah Blount
+
+----
+
+Author-website: https://twitter.com/saibellanyc
+
+----
+
+Text: Roll down the windows, pump up the bass. For as long as I've had arm's access to the radio dial, programming music in the car has been a #1 joy of mine. And as soon as I got a driver's license, the freedom of blasting tunes in the whip changed everything. For this mix, I imagined a road trip with friends - a weekend RECESS.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/saidah-blount-for-intermission/

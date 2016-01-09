@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Erick Arc Elliot - Interlude
 02. Alton Ellis & The Heptones - Loving You
 03. Lion Babe - Treat Me Like Fire
@@ -9,12 +10,26 @@ tracklist:
 08. The Cranberries - Linger
 09. Robin Pecknold - I'm Losing Myself feat. Ed Droste
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Phillip Annand
+
 ----
-title: Phillip Annand
+
+Author-website: http://www.madburyclub.com
+
 ----
-author_website: http://www.madburyclub.com
+
+Text: The greatest book ever written is Kon-Tiki by Thor Heyerdahl. I can't think of anything else in the world that defines my personal RECESS better than building a raft in Central America and sailing it across the ocean to what is essentially a lost island all in the name of proving a point. Ocean bound, ultimate freedom, sharks circling under the raft, whales stopping by to offer support and flying fish frying in a pan for breakfast in the morning. Freedom is the mission.
+
 ----
-text: The greatest book ever written is Kon-Tiki by Thor Heyerdahl. I can't think of anything else in the world that defines my personal RECESS better than building a raft in Central America and sailing it across the ocean to what is essentially a lost island all in the name of proving a point. Ocean bound, ultimate freedom, sharks circling under the raft, whales stopping by to offer support and flying fish frying in a pan for breakfast in the morning. Freedom is the mission. 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/phillip-annand-for-intermission/

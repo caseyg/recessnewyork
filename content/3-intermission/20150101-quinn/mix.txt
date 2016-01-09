@@ -1,19 +1,37 @@
-tracklist:
+Tracklist: 
+
 01. The Moments - Next Time I See You | Yogi Says Goodbye
 02. Shuggie Otis - Aht Uh Mi Hed
 03. René and Angela - I Love You More
 04. Steve Parks - Movin' In The Right Direction
 05. Ned Doheny – To Prove My Love
 06. Luther Vandross – You're The Sweetest One
-07. Jean Carn – Was That All It Was  
+07. Jean Carn – Was That All It Was
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Bing Ji Ling   
+
+Title: Bing Ji Ling
+
 ----
-author_website: http://www.bingjiling.com   
+
+Author-website: http://www.bingjiling.com
+
 ----
-text: I’m calling this mix of mine “Top Seven under 30” cuz these are seven of my all time favorite songs in less than 30 minutes. Get it? Besides making music, I also have a background in the vintage furniture business, and currently do a little consulting work for a website that represents the world’s top antique and 20th century design dealers. Don’t ask me how I ended up doing that! Enjoy...
+
+Text: I’m calling this mix of mine “Top Seven under 30” cuz these are seven of my all time favorite songs in less than 30 minutes. Get it? Besides making music, I also have a background in the vintage furniture business, and currently do a little consulting work for a website that represents the world’s top antique and 20th century design dealers. Don’t ask me how I ended up doing that! Enjoy...
+
 ----
-audio: /assets/1-TETSURO.m4a   
+
+Audio: /assets/1-TETSURO.m4a
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/bing-ji-ling-for-intermission/

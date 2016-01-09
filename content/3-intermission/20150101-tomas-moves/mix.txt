@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Eminence Front - The Who
 02. Funky Sensation - Gwen McRae
 03. Brothers on the Slide - Cymande
@@ -9,12 +10,26 @@ tracklist:
 08. Try Jah Love - Third World
 09. Thousand Finger Man (Louie Vega EOL rework) - Candido
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: TomasMoves
+
 ----
-title: TomasMoves
+
+Author-website: http://vimeo.com/tomasmoves
+
 ----
-author_website: http://vimeo.com/tomasmoves
+
+Text: These selections served as portals to finding myself in life as well as on the dancefloor and onto the turntables. My earliest memories of dance were influenced by my mom and my older cousins who would come over to visit to warm up before they'd hit the disco that night. Watching them fueled my fantasies as a child to hit the dancefloor someday. These days RECESS is my choice of living out that dream with every funky beat.
+
 ----
-text: These selections served as portals to finding myself in life as well as on the dancefloor and onto the turntables. My earliest memories of dance were influenced by my mom and my older cousins who would come over to visit to warm up before they'd hit the disco that night. Watching them fueled my fantasies as a child to hit the dancefloor someday. These days RECESS is my choice of living out that dream with every funky beat.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/tomasmoves-for-intermission/

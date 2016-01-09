@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Curtis Mayfield - We've Only Just Begun (intro edit)
 02. Selda - Yaz Gazeteci Yaz
 03. Tiny Hearts - Snow Cold
@@ -10,15 +11,26 @@ tracklist:
 09. Dorondo - Didn't I (Trishes edit)
 10. Joe Bataan - What Good Is A Castle, Pt. I
 
-
 ----
+
 Date: 2015-01-01
-----
-title: J.Bless
-----
-author_website: https://soundcloud.com/j-bless
-----
-text: In the 50s, my grandfather managed a record shop near Times Square frequented by jazz greats like Lester Young and Gil Evans. In the 60s, my father went to Woodstock. I grew up with a varied soundtrack. For me, RECESS often meant digging into a record, devouring full albums from start to finish, liner notes and all. These are some sounds I've vibed to along the way, and includes a world premiere of my instrumental song "Extra Fancy."
 
+----
 
+Title: J.Bless
 
+----
+
+Author-website: https://soundcloud.com/j-bless
+
+----
+
+Text: In the 50s, my grandfather managed a record shop near Times Square frequented by jazz greats like Lester Young and Gil Evans. In the 60s, my father went to Woodstock. I grew up with a varied soundtrack. For me, RECESS often meant digging into a record, devouring full albums from start to finish, liner notes and all. These are some sounds I've vibed to along the way, and includes a world premiere of my instrumental song "Extra Fancy."
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jbless-for-intermission/

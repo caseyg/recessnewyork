@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Charles Bradley - Heart Of Gold (Neil Young cover)
 02. Masta Killa - Nehanda and Cream
 03. Joo Brasil feat Lovefoxx - L.O.V.E. Banana
@@ -9,14 +10,30 @@ tracklist:
 08. INI - What You Say
 09. Isaac Delusion - Midnight Sun
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Colin Tunstall
+
 ----
-title: Colin Tunstall
+
+Author-website: http://www.saturdaysnyc.com
+
 ----
-author_website: http://www.saturdaysnyc.com
-----
-text: Recess was my favorite part of school as a kid. I still love the moments when you can get all the energy out of your system. Taking a break from your day, connecting with friends, and doing whatever the fuck you enjoy. I'm all over the place. 
+
+Text: 
+
+Recess was my favorite part of school as a kid. I still love the moments when you can get all the energy out of your system. Taking a break from your day, connecting with friends, and doing whatever the fuck you enjoy. I'm all over the place. 
 
 I have to switch it up, depending on the season I'm looking for trouble.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/colin-tunstall-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Affelaye - Want Me
 02. Lion Babe - Treat Me Like Fire
 03. Ropert Glasper Experiment - Afro Blue (Feat. Erykah Badu) 
@@ -12,12 +13,26 @@ tracklist:
 11. Kollektiv Turmstrasse - Schwindelig
 12. Flume - Holdin On
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Michael Adasko
+
 ----
-title: Michael Adasko
+
+Author-website: https://www.facebook.com/mikesteady
+
 ----
-author_website: https://www.facebook.com/mikesteady
+
+Text: Music has always been my soundtrack; defining every moment and season with clarity. When I made career moves from music, food literally overflowed with all of the emotion I learned through my life with music. The dissonance, breaks, harmony, crescendo and bass found a new medium, but the heart and soul remain. Steadily, always.
+
 ----
-text: Music has always been my soundtrack; defining every moment and season with clarity. When I made career moves from music, food literally overflowed with all of the emotion I learned through my life with music. The dissonance, breaks, harmony, crescendo and bass found a new medium, but the heart and soul remain. Steadily, always.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/michael-adasko-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Happy MATO vs Pharrell/Janel - Happy (Stix France) 
 02. Prince Fatty/Winston Francis/Al Capone - Ba Ba Ri Ba Skank (Mr Bongo)
 03. PM - Check Out Supervisor aka Checky My Machine (Nairobi edit)
@@ -14,18 +15,32 @@ tracklist:
 13. Funkanala - Babakar (Boston Rodriguez Remix) (Hear and Now Recordings) 
 14. Taana Gardner - Paradise Express (unreleased version)
 15. Eddie C - O Ye (Africa Shakedown Volume 2) 
-16. MUKAT Edits - Have A Good Time (Peak Time Play Disc edit) (Afro Disco Boogie Vol 6) 
-  
+16. MUKAT Edits - Have A Good Time (Peak Time Play Disc edit) (Afro Disco Boogie Vol 6)
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Will Page
+
+Title: Will Page
+
 ----
-author_website: http://www.mixcloud.com/willpagesnc
+
+Author-website: http://www.mixcloud.com/willpagesnc
+
 ----
-text: If 2014 was tough, then trust me - you'll get over that and into something worse. So let my RECESS mix help you hang up your hang ups for fifty four or more minutes and take one for the team to kick start two thousand fifteen. 
+
+Text: 
+
+If 2014 was tough, then trust me - you'll get over that and into something worse. So let my RECESS mix help you hang up your hang ups for fifty four or more minutes and take one for the team to kick start two thousand fifteen. 
 
 photo credit: Ian Spence
 
+----
 
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/will-page-for-intermission/

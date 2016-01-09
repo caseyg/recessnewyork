@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Dub Be Good To Me (A Capella) - Beats International
 02. Hotel California - Jam On The Mutha
 03. Edge 6 - Sabres of Paradise
@@ -7,14 +8,27 @@ tracklist:
 06. Give Me Some Love - Love Corporation
 07. Don't Fight It Feel it (Scat Remix) - Primal Scream 
 08. I'm Losing More Than I Ever Had - Primal Scream
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: James Cooper
-----
-author_website: https://twitter.com/koopstakov
-----
-text: This is what 1990 London sounded like to me, all those years ago when I was 18. I was DJ-ing, throwing parties, going to Ibiza and Rimini. Traveling the world via nightclubs. All these songs are recorded from my original record collection - you'll hear the crackles. I like the crackles. Love the crackles. 
 
+----
+
+Title: James Cooper
+
+----
+
+Author-website: https://twitter.com/koopstakov
+
+----
+
+Text: This is what 1990 London sounded like to me, all those years ago when I was 18. I was DJ-ing, throwing parties, going to Ibiza and Rimini. Traveling the world via nightclubs. All these songs are recorded from my original record collection - you'll hear the crackles. I like the crackles. Love the crackles.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/james-cooper-for-intermission/

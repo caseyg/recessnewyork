@@ -20,7 +20,7 @@ Date: 2015-01-01
 
 ----
 
-title: Yuval Ullmann
+Title: Yuval Ullmann
 
 ----
 
@@ -33,3 +33,7 @@ Text: Tel Aviv. New York. Stockholm. A late night flight into fuzzy psyched soul
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/yuval-ullmann-for-intermission/

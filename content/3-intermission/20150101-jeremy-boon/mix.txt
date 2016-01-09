@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Climbers - Equal Responsibility
 02. Maceo Plex - Vibe Your Love
 03. Monte - True
@@ -6,12 +7,26 @@ tracklist:
 05. Hot Since 82 - Knee Deep In Louise
 06. Hunter Game - Don't Feel The Presence
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jeremy Boon
+
 ----
-title: Jeremy Boon
+
+Author-website: http://www.zoukclub.com/#/djs/detail/64
+
 ----
-author_website: http://www.zoukclub.com/#/djs/detail/64
+
+Text: Mountain biking at the nature reserve, hanging out with my kids by the pool and eating my favorite dish, the original Singapore chilli crab are some of my favorite past time. I'm one of the fortunate few who can truly say stepping into my office is like walking into a candy store, take a look at the record collection spanning 20 years of dance music!
+
 ----
-text: Mountain biking at the nature reserve, hanging out with my kids by the pool and eating my favorite dish, the original Singapore chilli crab are some of my favorite past time. I'm one of the fortunate few who can truly say stepping into my office is like walking into a candy store, take a look at the record collection spanning 20 years of dance music!
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jeremy-boon-for-intermission/

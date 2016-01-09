@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nikki Minaj + Birdman - Y U Mad
 02. Desire - Under Your Spell
 03. LUNICE - The Good Kids
@@ -7,13 +8,28 @@ tracklist:
 06. Drake + The Weeknd - Crew Love
 07. The Dream - Kill The Lights
 08. The Melker Project - Say Hello Vs. Because (Jay-Z Vs. The Beatles)
-09. Washed Out - You & I   
+09. Washed Out - You & I
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Gabe Jaffe aka Bankrupt
+
+Title: Gabe Jaffe aka Bankrupt
+
 ----
-author_website: http://gumsoles.tumblr.com/
+
+Author-website: http://gumsoles.tumblr.com/
+
 ----
-text: My RECESS is cycling through the Netherlands, where I’m living at the moment, even better if it’s on a sunny day (really rare here). The perfect start to my day is the 10K ride to the office while working up a sweat cranking past people on their gigantic Oma Fiets. I beat everyone and occasionally race the scooters.
+
+Text: My RECESS is cycling through the Netherlands, where I’m living at the moment, even better if it’s on a sunny day (really rare here). The perfect start to my day is the 10K ride to the office while working up a sweat cranking past people on their gigantic Oma Fiets. I beat everyone and occasionally race the scooters.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/gabe-jaffe-aka-bankrupt-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Mathias Stubo - I Never Knew (Single Version)  
 02. Electric Wire Hustle - Waters EP (Longtime)  
 03. Modo Solar - Natural (Patchworks Remix)
@@ -8,12 +9,26 @@ tracklist:
 07. Ashford & Simpson - One More Try
 08. Kasso - Key West
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Mekeva McNeil
+
 ----
-title: Mekeva McNeil
+
+Author-website: http://www.analogenlight.com
+
 ----
-author_website: http://www.analogenlight.com
+
+Text: For as long as I can remember, I've always enjoyed music. I had a long bus ride in high school and can vividly recall carrying headphones with me every single day. The music that accompanied me on the daily journey was a wide range. I've always been eclectic. I would also fall asleep with mini speakers from my stereo under my pillow.  Listening to music has given me solace. Discovering new sounds brings me pure excitement. Hope you dig it!
+
 ----
-text: For as long as I can remember, I've always enjoyed music. I had a long bus ride in high school and can vividly recall carrying headphones with me every single day. The music that accompanied me on the daily journey was a wide range. I've always been eclectic. I would also fall asleep with mini speakers from my stereo under my pillow.  Listening to music has given me solace. Discovering new sounds brings me pure excitement. Hope you dig it! 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/mekeva-mcneil-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Introduction - Madlib
 02. Modern Rhymes - Cool Calm Pete (Feat. Doc Strange)
 03. Between Friends - Captain Murphy (Feat. Earl Sweatshirt)
@@ -11,10 +12,25 @@ tracklist:
 10. Fu-Gee-La (Sly & Robbie Mix) - Fugees
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Marcel Pena
+
+Title: Marcel Pena
+
 ----
-author_website: http://unisnewyork.com
+
+Author-website: http://unisnewyork.com
+
 ----
-text: Permanent Vacation
+
+Text: Permanent Vacation
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/marcel-pena-for-intermission/

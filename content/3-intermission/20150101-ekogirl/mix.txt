@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Rhye - Open (Ryan Hemsworth remix)
 02. Nicolas Jaar - Hey Boy
 03. Denitia and Sene - Stupid World
@@ -12,12 +13,26 @@ tracklist:
 11. Mat.Joe - Heart To Find
 12. 2 Player Co-Op - Petrograde
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: ekogirl
+
 ----
-title: ekogirl
+
+Author-website: http://www.ekogirl.com
+
 ----
-author_website: http://www.ekogirl.com
+
+Text: My two favorite pastimes are flying and swimming. Whereas travel gets you from one place to another, being in water is a break from the normal routine of being a human, weighed down by gravity. I'm happiest in water: river, ocean, lake, tub, hot spring, pool, whichever. I grabbed some tunes to accompany a good sunshiney float-time RECESS. Relaxed & Playful.
+
 ----
-text: My two favorite pastimes are flying and swimming. Whereas travel gets you from one place to another, being in water is a break from the normal routine of being a human, weighed down by gravity. I'm happiest in water: river, ocean, lake, tub, hot spring, pool, whichever. I grabbed some tunes to accompany a good sunshiney float-time RECESS. Relaxed & Playful. 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ekogirl-for-intermission/

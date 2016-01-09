@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Henry Green - Electric Feel (Kygo Remix)
 02. Lewis Taylor - Night Fever
 03. Platinum Pied Pipers - Deep Inside feat. Sa-Ra Creative Partners
@@ -10,10 +11,25 @@ tracklist:
 09. Q-Tip - Do You Dig U?
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Tara Duvivier
+
+Title: Tara Duvivier
+
 ----
-author_website: http://www.djtara.com
+
+Author-website: http://www.djtara.com
+
 ----
-text: Walking is my most favorite activity to do in this city. If it's warm enough and I have the time to spare, I'll put on my headphones and walk around for hours with no destination in mind. I like to walk up certain streets so I can "visit" with buildings I like, peek behind construction sheds, maybe pop into a spot or two. If a song comes up that has a beat that falls instep with my stride, I get really happy-it's a sweet spot. 
+
+Text: Walking is my most favorite activity to do in this city. If it's warm enough and I have the time to spare, I'll put on my headphones and walk around for hours with no destination in mind. I like to walk up certain streets so I can "visit" with buildings I like, peek behind construction sheds, maybe pop into a spot or two. If a song comes up that has a beat that falls instep with my stride, I get really happy-it's a sweet spot.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/tara-duvivier-for-intermission/

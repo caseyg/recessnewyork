@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Raphael Saadiq - Be Here feat. D'Angelo
 02. Dwele - Find A Way
 03. Jai Paul - Track 02
@@ -10,14 +11,30 @@ tracklist:
 09. Miguel - Adorn
 10. Deep & Disco - Knock Me Out
 
-
 ----
+
 Date: 2015-01-01
-----
-title: Roy Dank
-----
-author_website: http://www.thewurstwebsite.com
-----
-text: "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." 
 
-Namaste, bitches. 
+----
+
+Title: Roy Dank
+
+----
+
+Author-website: http://www.thewurstwebsite.com
+
+----
+
+Text: 
+
+"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it." 
+
+Namaste, bitches.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/roy-dank-for-intermission/

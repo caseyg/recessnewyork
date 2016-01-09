@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Seu Jorge - Ze Do Caroco
 02. Tim Maia - Ela Partiu
 03. Nara - Carcara
@@ -10,10 +11,25 @@ tracklist:
 09. Sabotage - Rap e Compromisso
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Rafael Sliks
+
+Title: Rafael Sliks
+
 ----
-author_website: http://rafaelsliks.com
+
+Author-website: http://rafaelsliks.com
+
 ----
-text: I enjoy skating, graffiti, music, vegetarian food, painting my atelier and being in nature in places that are not inhabited. Really hate being in the city for too long, suffocates me. Need to be around nature and breathe the air that rejuvenates my soul. Namaste.
+
+Text: I enjoy skating, graffiti, music, vegetarian food, painting my atelier and being in nature in places that are not inhabited. Really hate being in the city for too long, suffocates me. Need to be around nature and breathe the air that rejuvenates my soul. Namaste.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/rafael-sliks-for-intermission/

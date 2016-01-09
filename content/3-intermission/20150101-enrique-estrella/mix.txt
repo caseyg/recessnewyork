@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nicole Willis and The Soul Investigators - Feelin' Free
 02. The Mighty Sceptres - Nothing Seems To Work Right
 03. Falty DL - Straight And Arrow
@@ -6,16 +7,32 @@ tracklist:
 05. Bosq - Keep Movin'
 06. Lady Zu - Danca Louca
 07. Bosq ft. Nicole Willis - Bad For Me (Late Night Dub)
-08. Voices Of Brazil - Belo Horizonte  
+08. Voices Of Brazil - Belo Horizonte
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Enrique Estrella
+
+Title: Enrique Estrella
+
 ----
-author_website: https://www.facebook.com/ubiquityrecords
+
+Author-website: https://www.facebook.com/ubiquityrecords
+
 ----
-text: Remember when you had RECESS in elementary school twice a day not even counting lunch? Dipping below the radar and dropping out for a few weeks is my idea of RECESS nowadays and most recently spent in the beautiful islands of the Philippines. Smile, enjoy the tunes, and move your hips. It's ok, no one's watching.
+
+Text: 
+
+Remember when you had RECESS in elementary school twice a day not even counting lunch? Dipping below the radar and dropping out for a few weeks is my idea of RECESS nowadays and most recently spent in the beautiful islands of the Philippines. Smile, enjoy the tunes, and move your hips. It's ok, no one's watching.
 
 Enjoy the mix.
 
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/enrique-estrella-for-intermission/

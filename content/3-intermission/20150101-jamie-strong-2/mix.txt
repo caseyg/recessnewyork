@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Van Morrison - Into The Mystic
 02. Odyssey - Our Lives Are Shaped By What We Love
 03. Nicolas Jaar - Mini Calcutta (Edit)
@@ -8,12 +9,26 @@ tracklist:
 07. Ta-Ku Feat Miles Bonny - So Hard
 08. The Rapture - It Takes Time To Be A Man
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jamie Strong
+
 ----
-title: Jamie Strong
+
+Author-website: http://www.innovativeleisure.net
+
 ----
-author_website: http://www.innovativeleisure.net
+
+Text: When was the last time you did something for the first time? My personal RECESS revolves around this mantra. It could be as simple as hearing a record, visiting a new city, state, country or restaurant for the first time. Exploration is the key to life. RECESS to me is all about the casual vibes & sounds so this playlist is meant to be enjoyed while sitting on your porch with a cold one in hand & appreciating the simple things in life.
+
 ----
-text: When was the last time you did something for the first time? My personal RECESS revolves around this mantra. It could be as simple as hearing a record, visiting a new city, state, country or restaurant for the first time. Exploration is the key to life. RECESS to me is all about the casual vibes & sounds so this playlist is meant to be enjoyed while sitting on your porch with a cold one in hand & appreciating the simple things in life.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jamie-strong-for-intermission/

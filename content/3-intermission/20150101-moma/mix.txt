@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 0. Leroy B's Boogie intro
 1. Tatham, Mensah, Lord & Ranks - Mr Pickles (Dance Mix)
 2. Magic Number feat. Clara Hill - Turn Back (Atjazz Remix)
@@ -9,13 +10,26 @@ tracklist:
 7. Kimberly Clark - Give Me Relief
 8. Claes Rosen - Daydreaming
 
-
 ----
+
 Date: 2015-01-01
-----
-title: Moma
-----
-author_website: http://djmoma.com
-----
-text: I was playing scrabble against the computer and I put down "D-E-E-J-A-Y-S" and used up all seven tiles in one go. Got to yell "Bingo!" out loud, pocketed the 50 pt bonus and proceeded to soundly defeat the computer. I guess the stars were in perfect alignment for this DEEJAY.
 
+----
+
+Title: Moma
+
+----
+
+Author-website: http://djmoma.com
+
+----
+
+Text: I was playing scrabble against the computer and I put down "D-E-E-J-A-Y-S" and used up all seven tiles in one go. Got to yell "Bingo!" out loud, pocketed the 50 pt bonus and proceeded to soundly defeat the computer. I guess the stars were in perfect alignment for this DEEJAY.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/moma-for-intermission/

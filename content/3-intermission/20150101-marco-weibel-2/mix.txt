@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Intro
 02. Jazz Collective - Velvet 
 03. Sam Sanders - Face At My Window
@@ -9,17 +10,25 @@ tracklist:
 08. Dalton - Soul Brother
 09. Sharon Revoal - Reaching For Our Star
 10. The Melton Brothers Band - Livin' In The City
-11. Dwight Sykes & Jahari - Situation 
-  
+11. Dwight Sykes & Jahari - Situation
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Marco Weibel
+
+Title: Marco Weibel
+
 ----
-author_website: http://www.darkerthanwax.com/marco-weibel
+
+Author-website: http://www.darkerthanwax.com/marco-weibel
+
 ----
-text: MARCO'S 
+
+Text: 
+
+MARCO'S 
 
 R AW
 E SSENTIAL 
@@ -28,3 +37,10 @@ E VERYBODY
 S HOULD 
 S COPE
 
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/marco-weibel-for-intermission-2/

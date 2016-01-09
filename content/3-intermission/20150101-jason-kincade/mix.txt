@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Johnny Mathis - Life is a Song Worth Singing (Columbia)
 02. Patti Austin - Body Language (CTI)
 03. Sylvester - Give it Up (Don't Make Me Wait) (Fantasy)
@@ -8,10 +9,25 @@ tracklist:
 07. Above Machined - Do It (Above Machine)
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Jason Kincade
+
+Title: Jason Kincade
+
 ----
-author_website: http://www.pbvinyl.com
+
+Author-website: http://www.pbvinyl.com
+
 ----
-text: When I was a kid, I used to record songs from the radio to make my own "mixtapes" and later when I got my first cheap stereo and discovered the record store/head shop (couldn't go behind the curtain but I could buy records) I remember recording them onto cassette so I could listen to them on my Walkman. This mix hearkens back to those times - a group of songs that work to create a mood - some old,some new. Enjoy.
+
+Text: When I was a kid, I used to record songs from the radio to make my own "mixtapes" and later when I got my first cheap stereo and discovered the record store/head shop (couldn't go behind the curtain but I could buy records) I remember recording them onto cassette so I could listen to them on my Walkman. This mix hearkens back to those times - a group of songs that work to create a mood - some old,some new. Enjoy.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jason-kincade-for-intermission/

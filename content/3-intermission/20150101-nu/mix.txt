@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Roy Ayers - We Live In Brooklyn (Instrumental) 
 02. J Dilla - Lucy ft Bo Bo Lamb 
 03. Architeq - Sleeping Bear Lament (James Pants remix)
@@ -11,10 +12,25 @@ tracklist:
 10. Osborne - Afrika (Bullion remix)
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Nu Goteh
+
+Title: Nu Goteh
+
 ----
-author_website: http://www.alillouder.com
+
+Author-website: http://www.alillouder.com
+
 ----
-text: RECESS to me is a time of sharing. My favorite treat to share with others is music. When I need an escape from the world, I just put my headphones on and get lost in it until I have to come back to reality.
+
+Text: RECESS to me is a time of sharing. My favorite treat to share with others is music. When I need an escape from the world, I just put my headphones on and get lost in it until I have to come back to reality.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/nu-goteh-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Marijuana - Chrome Sparks
 02. Summer Maddness S.A. - Karriem Riggins
 03. Sugar Honey Iced Tea - Kelis
@@ -10,12 +11,26 @@ tracklist:
 09. Born To Fly - Courtney John & Ticklah
 10. So Good at Being in Trouble - Unknown Mortal Orchestra
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Oliver Kann
+
 ----
-title: Oliver Kann
+
+Author-website: http://www.freundevonfreunden.com
+
 ----
-author_website: http://www.freundevonfreunden.com
+
+Text: My ideal way to Recess is based around travel, music & friends. Simple and essential ingredients one would think, but experiencing them in combination has become a rare treat. This mix combines various influences that I've come across recently & that in combination felt right. Enjoy. My treat.
+
 ----
-text: My ideal way to Recess is based around travel, music & friends. Simple and essential ingredients one would think, but experiencing them in combination has become a rare treat. This mix combines various influences that I've come across recently & that in combination felt right. Enjoy. My treat.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/oliver-kann-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. The RAH Band - Messages From The Stars
 02. Aged In Harmony - You're A Melody (Extended Disco)
 03. Lisa Lisa & Cult Jam - I Wonder If I Take You Home
@@ -8,11 +9,25 @@ tracklist:
 07. Jade - Don't Walk Away
 
 ----
-Date: 2015-01-01
-----
-title: Anna Sian
-----
-author_website: http://annasian.com
-----
-text: Snaps, double claps, head bobs, rubbery spines. There is no expiration date on classic, feel-good New Jack Swing, because every day should be a celebration. This mix is a shoutout to the timeless lovers dressed to the nines and two-stepping under disco lights.
 
+Date: 2015-01-01
+
+----
+
+Title: Anna Sian
+
+----
+
+Author-website: http://annasian.com
+
+----
+
+Text: Snaps, double claps, head bobs, rubbery spines. There is no expiration date on classic, feel-good New Jack Swing, because every day should be a celebration. This mix is a shoutout to the timeless lovers dressed to the nines and two-stepping under disco lights.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/anna-sian-for-intermission/

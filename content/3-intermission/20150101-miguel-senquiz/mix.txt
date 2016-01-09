@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Raja - Crush Spell
 02. Superstructure - X-Flame 
 03. Slum Village - Don't Fight the Feeling (feat. Dwele)
@@ -11,12 +12,26 @@ tracklist:
 10. Shigeto - And We Gonna (Samiyam Remix)
 11. Shigeto - Ann Arbor Part 3 & 4
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Miguel Senquiz
+
 ----
-title: Miguel Senquiz
+
+Author-website: http://www.miguelsenquiz.com
+
 ----
-author_website: http://www.miguelsenquiz.com
+
+Text: I like to think of songs as timestamps. Markers helping you recall a moment or a period in your life. Sometimes as evocative as a photo, sometimes more. My RECESS is a journey through those moments.
+
 ----
-text: I like to think of songs as timestamps. Markers helping you recall a moment or a period in your life. Sometimes as evocative as a photo, sometimes more. My RECESS is a journey through those moments.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/miguel-senquiz-for-intermission/

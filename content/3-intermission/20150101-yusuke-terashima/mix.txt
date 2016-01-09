@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Piano Intro - DJ Harrison
 02. Taketime - Sir Froderick
 03. Agriculture - DJ Harrison
@@ -14,10 +15,25 @@ tracklist:
 13. Lzy - Eric Lau
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Yusuke Terashima
+
+Title: Yusuke Terashima
+
 ----
-author_website: http://yusuketerashima.com
+
+Author-website: http://yusuketerashima.com
+
 ----
-text: Lying down at Prospect Park, eggs benedict at Two Rooms for Sunday brunch, barefoot walk at Kinuta Park, and sitting on a bench at Fort Greene Park with a caffe latte. My RECESS is there, with tons of my favorite tracks on my iPhone.
+
+Text: Lying down at Prospect Park, eggs benedict at Two Rooms for Sunday brunch, barefoot walk at Kinuta Park, and sitting on a bench at Fort Greene Park with a caffe latte. My RECESS is there, with tons of my favorite tracks on my iPhone.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/yusuke-terashima-for-intermission/

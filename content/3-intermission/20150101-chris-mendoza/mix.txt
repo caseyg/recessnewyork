@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Sonny Cheeba - What You Doin' Here
 02. Dazz Band - Let It Whip
 03. The Gap Band - Party Train
@@ -13,15 +14,27 @@ tracklist:
 12. Public Enemy - Security Of The First World
 13. Bronx River Parkway - Pico Alto
 14. Los Iracundos - Toda La Gente
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Chris Mendoza
-----
-author_website: http://www.everydaywalkman.blogspot.com
-----
-text: I was born in Nicaragua surrounded by music, soccer, art and architecture. The sounds, color and infectious energy were always present in the cities I've lived and visited. Music plays a vital role in my development as an artist, friend and citizen of the world. I manifest my highest potential thru sketching, photography, writing and music. Enjoy the EXTRAORDINARY EVERYDAYWALKMAN mix!
 
+----
 
+Title: Chris Mendoza
+
+----
+
+Author-website: http://www.everydaywalkman.blogspot.com
+
+----
+
+Text: I was born in Nicaragua surrounded by music, soccer, art and architecture. The sounds, color and infectious energy were always present in the cities I've lived and visited. Music plays a vital role in my development as an artist, friend and citizen of the world. I manifest my highest potential thru sketching, photography, writing and music. Enjoy the EXTRAORDINARY EVERYDAYWALKMAN mix!
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/chris-mendoza-for-intermission/

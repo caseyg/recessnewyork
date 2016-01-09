@@ -17,7 +17,7 @@ Date: 2015-01-01
 
 ----
 
-title: Jamie Strong
+Title: jamie-strong
 
 ----
 
@@ -29,8 +29,8 @@ Text: In a world that's constantly turnin' up and tuning out, it's time to turn 
 
 ----
 
-Title: jamie-strong
+Herobackgroundcolor: 
 
 ----
 
-Herobackgroundcolor: 
+Mixcloud: https://www.mixcloud.com/recessnewyork/jamie-strong-for-intermission-2/

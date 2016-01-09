@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Laverne & Shirley - BG Studios	
 02. Pop Musik - M (Robin Scott)
 03. Eye Know - De La Soul
@@ -12,15 +13,32 @@ tracklist:
 11. White Lines - Grandmaster Flash
 12. Ice Ice Baby - Vanilla Ice
 13. Blow - Beyonce
-14. Ain't No Mountain High Enough - Michael McDonald 
+14. Ain't No Mountain High Enough - Michael McDonald
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Goldie Gareza
+
+Title: Goldie Gareza
+
 ----
-author_website: http://goldiewashere.com
+
+Author-website: http://goldiewashere.com
+
 ----
-text: Our family had a least five different boxes of cereal on constant rotation; you could go a full school week without having the same kind twice! I compare my memories of childhood cereal to the music mixes I make... never the same genre for long. (Although I have a weakness for old school.)
+
+Text: 
+
+Our family had a least five different boxes of cereal on constant rotation; you could go a full school week without having the same kind twice! I compare my memories of childhood cereal to the music mixes I make... never the same genre for long. (Although I have a weakness for old school.)
 
 I started whistling when I was 4 years old, and even back then I took no requests.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/goldie-gareza-for-intermission/

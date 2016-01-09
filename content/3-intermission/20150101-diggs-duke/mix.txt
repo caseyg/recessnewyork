@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Tadd Dameron - "Bevan's Birthday" from The Magic Touch
 02. Owiny Sigoma Band - "Lucas Malore" from Power Punch
 03. Philip Owusu - Goodnight
@@ -9,12 +10,26 @@ tracklist:
 08. Thundercat - "Heartbreaks + Setbacks" from Apocalypse 
 09. Hilton C. Felton, Jr. - "Spreading Fever" from Family and Friends
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Diggs Duke
+
 ----
-title: Diggs Duke
+
+Author-website: http://www.diggsduke.bandcamp.com
+
 ----
-author_website: http://www.diggsduke.bandcamp.com
+
+Text: I move from place to place. I don't go just to visit. Sometimes, I go to live. So, I guess I see everything as one big jumbled RECESS. With every different setting comes a new discovery about one's musical taste. So, this mix represents the taste I've acquired in my travels. Spanning culture and time, the selections share a common thread of individuality, in terms of concepts of rhythm and melody.
+
 ----
-text: I move from place to place. I don't go just to visit. Sometimes, I go to live. So, I guess I see everything as one big jumbled RECESS. With every different setting comes a new discovery about one's musical taste. So, this mix represents the taste I've acquired in my travels. Spanning culture and time, the selections share a common thread of individuality, in terms of concepts of rhythm and melody.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/diggs-duke-for-intermission/

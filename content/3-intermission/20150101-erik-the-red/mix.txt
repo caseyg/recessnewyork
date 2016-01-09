@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. DJ Day - Land Of 1000 Chances (Lord Echo's Disco Mix)
 02. Phil Gerus - Better Think Twice
 03. Electric Wire Hustle - Brother Sun feat. Kimbra (Rodi Kirk & Aron Ottignon Version)
@@ -14,14 +15,26 @@ tracklist:
 13. Electric Wire Hustle - March feat. Deva Mahal
 14. Paul Chin - Deep Jupiter (Shigeto Remix)
 
-  
-
 ----
+
 Date: 2015-01-01
-----
-title: Erik The Red
-----
-author_website: http://www.bastardjazz.com
-----
-text: Seeds somehow spring to life at just the right time. My mom was planting flowers on the morning of my birth, and my own baby daughter arrived to shine light and luck on me just when I needed it most. We plant seeds every day, most of which are forgotten to decay in the dirt, but the best of which germinate slowly and grow roots, providing what we need most: life, love, immortality and music. This mix is dedicated to the seeds.
 
+----
+
+Title: Erik The Red
+
+----
+
+Author-website: http://www.bastardjazz.com
+
+----
+
+Text: Seeds somehow spring to life at just the right time. My mom was planting flowers on the morning of my birth, and my own baby daughter arrived to shine light and luck on me just when I needed it most. We plant seeds every day, most of which are forgotten to decay in the dirt, but the best of which germinate slowly and grow roots, providing what we need most: life, love, immortality and music. This mix is dedicated to the seeds.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/erik-the-red-for-intermission/

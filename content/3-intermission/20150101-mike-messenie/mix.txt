@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. The Style Council - It Didn't Matter (Instrumental)
 02. Lisa Carbon - Rhumba Roland
 03. Shaman B - Bamboo Gardens
@@ -7,15 +8,27 @@ tracklist:
 06. New Age Steppers - Some Love
 07. Phillippe Besbombes - Flipper
 08. Seahawks - Fire in The Sky (Rune Lindbaek & Oyvind Blikstad High Flying Viking Mix)
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Mike Messenie
-----
-author_website: http://chinatownsoccerclub.com
-----
-text: My Recess - Real Ale, Saunas and Sailboats. Clear Lakes, Cats and Mountaintops. Erratic Strolling in Continuous Perplexed Wandering. 
 
+----
 
+Title: Mike Messenie
+
+----
+
+Author-website: http://chinatownsoccerclub.com
+
+----
+
+Text: My Recess - Real Ale, Saunas and Sailboats. Clear Lakes, Cats and Mountaintops. Erratic Strolling in Continuous Perplexed Wandering.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/mike-messenie-for-intermission/

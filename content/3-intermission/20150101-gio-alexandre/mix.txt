@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. J. Deep & D. Castillo - Play To Win
 02. DJ Tekit Izi - Floating Substitute
 03. Janet Jackson - Got 'Til It's Gone
@@ -15,12 +16,26 @@ tracklist:
 14. Gotan Project - El Capitalismo Foraneo
 15. Sade - Paradise
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Gio Alexandre
+
 ----
-title: Gio Alexandre
+
+Author-website: https://soundcloud.com/tekit-izi
+
 ----
-author_website: https://soundcloud.com/tekit-izi
+
+Text: NYC native known for being a rhythm selector, crowd motivator, music creator, artist, skateboarder and tech dweeb. When class is not in session, this is my RECESS. Peace, Love, and Unity.  #spreadlove
+
 ----
-text: NYC native known for being a rhythm selector, crowd motivator, music creator, artist, skateboarder and tech dweeb. When class is not in session, this is my RECESS. Peace, Love, and Unity.  #spreadlove
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/gio-alexandre-for-intermission/

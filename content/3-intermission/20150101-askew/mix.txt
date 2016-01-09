@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. DJ Cam - Underground Vibes (Paris, France)
 02. DJ BMF - Trippin’ (Orlando, FL)
 03. Sandra Cross - Agua De Beber (KJM Bossa Mix) (Osaka, Japan)
@@ -8,10 +9,25 @@ tracklist:
 07. Donnie - Turn Around (Atlanta, GA)
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Tyler Askew
+
+Title: Tyler Askew
+
 ----
-author_website: http://www.tyleraskew.com
+
+Author-website: http://www.tyleraskew.com
+
 ----
-text: For as long as I can remember, the music has been my personal RECESS. As a kid, the power of music allowed me to dream and travel anywhere I wanted to go in my mind. Through my quest for the perfect beat, I was able to visit places like Rio De Janeiro, Detroit, Lagos, Tokyo, and London, learning about different music cultures along the way. Here you'll find a few selections from my vinyl journeys throughout the years. Enjoy!
+
+Text: For as long as I can remember, the music has been my personal RECESS. As a kid, the power of music allowed me to dream and travel anywhere I wanted to go in my mind. Through my quest for the perfect beat, I was able to visit places like Rio De Janeiro, Detroit, Lagos, Tokyo, and London, learning about different music cultures along the way. Here you'll find a few selections from my vinyl journeys throughout the years. Enjoy!
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/tyler-askew-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Shoot You Down - APB
 02. Taste My Dream - Razika
 03. Can I Change My Mind - Alton Ellis
@@ -7,12 +8,26 @@ tracklist:
 06. Choppas On Deck - A$AP Ferg
 07. Ghetto Red Hot - Super Cat
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Angelo Baque
+
 ----
-title: Angelo Baque
+
+Author-website: http://www.supremenewyork.com
+
 ----
-author_website: http://www.supremenewyork.com
+
+Text: Born and raised in NYC. I am NY wherever I travel to on this planet.  The mix is titled "Randomness" because that is just what it is.  My brain is scattered all day and it is hard for me to concentrate on a genre of music during the day but it plays a major part in my creativity and transcends into all other aspects of emotions. Point is I hope you like it. If not then I guess I suck, not really. Easy.
+
 ----
-text: Born and raised in NYC. I am NY wherever I travel to on this planet.  The mix is titled "Randomness" because that is just what it is.  My brain is scattered all day and it is hard for me to concentrate on a genre of music during the day but it plays a major part in my creativity and transcends into all other aspects of emotions. Point is I hope you like it. If not then I guess I suck, not really. Easy.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/angelo-baque-for-intermission/

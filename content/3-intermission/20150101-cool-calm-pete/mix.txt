@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Echi Di Londra - Cincinnato
 02. Smoke Rings - Sam Cooke
 03. A few more kisses to go - Issac Hayes
@@ -13,10 +14,25 @@ tracklist:
 12. One Reply - Rikki Ililonga & Musi-O-Tunya
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Cool Calm Pete
+
+Title: Cool Calm Pete
+
 ----
-author_website: http://en.wikipedia.org/wiki/Cool_Calm_Pete
+
+Author-website: http://en.wikipedia.org/wiki/Cool_Calm_Pete
+
 ----
-text: Triangle Offense
+
+Text: Triangle Offense
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/cool-calm-pete-for-intermission/

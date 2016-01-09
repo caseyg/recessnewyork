@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Let's Make Some Plans - Close Lobsters
 02. Carnival of Sorts (Live) - R.E.M.
 03. To Steal a Piece of Art - Wild Honey
@@ -10,12 +11,26 @@ tracklist:
 09. Grandpa Was Punk Rock - Felix Frump
 10. Proper Name Spelling Bee - Fishboy
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Ryan McGinness
+
 ----
-title: Ryan McGinness
+
+Author-website: http://www.ryanmcginness.com/
+
 ----
-author_website: http://www.ryanmcginness.com/
+
+Text: "Be regular and orderly in your life, so that you may be violent and original in your work" - Gustave Flaubert (1821-1880)
+
 ----
-text: "Be regular and orderly in your life, so that you may be violent and original in your work" - Gustave Flaubert (1821-1880)
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ryan-mcginness-for-intermission/

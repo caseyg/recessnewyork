@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. The King Khan & BBQ Show - I'll Never Belong
 02. Action Bronson - Easy Rider
 03. The Misfits - Where Eagles Dare
@@ -11,10 +12,25 @@ tracklist:
 10. Sam Cooke - Having A Party
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Matt Schlichter
+
+Title: Matt Schlichter
+
 ----
-author_website: http://www.matthewschlichter.com
+
+Author-website: http://www.matthewschlichter.com
+
 ----
-text: Everyone needs their own personal recess. Sit back, relax, have a drink. Listen to some good tunes. 
+
+Text: Everyone needs their own personal recess. Sit back, relax, have a drink. Listen to some good tunes.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/matt-schlichter-for-intermission/

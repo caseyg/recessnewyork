@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Bennington (2007) - John Maus
 02. Get Some (Remix by Beck) - Lykke Li
 03. 54-46 Was My Number - Toots & The Maytals  
@@ -10,10 +11,25 @@ tracklist:
 09. (Sittin' On) The Dock of the Bay - Otis Redding
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Lauren Driscoll
+
+Title: Lauren Driscoll
+
 ----
-author_website: https://www.linkedin.com/pub/lauren-driscoll/7/643/437
+
+Author-website: https://www.linkedin.com/pub/lauren-driscoll/7/643/437
+
 ----
-text: RECESS in my current life equals margaritas and good company. Location is flexible, but one where I don't have to wear shoes is preferred.
+
+Text: RECESS in my current life equals margaritas and good company. Location is flexible, but one where I don't have to wear shoes is preferred.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/lauren-driscoll-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Harold Budd & Brian Eno - The Plateaux of Mirror (PJ treated Version) 
 02. Oneohtrix Point Never - Chrome Country
 03. Sampha - Demons
@@ -10,15 +11,26 @@ tracklist:
 09. Four Tet - Your Body Feels
 10. Peter Jay - B U R N $ L O W
 
-
 ----
+
 Date: 2015-01-01
-----
-title: Peter Jay
-----
-author_website: https://soundcloud.com/peterjay
-----
-text: Life is fragile; love like there is no tomorrow; and enjoy your RECESS.
 
+----
 
+Title: Peter Jay
 
+----
+
+Author-website: https://soundcloud.com/peterjay
+
+----
+
+Text: Life is fragile; love like there is no tomorrow; and enjoy your RECESS.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/peter-jay-for-intermission/

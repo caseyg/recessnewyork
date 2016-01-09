@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nick Drake – Place To Be
 02. Michael Kiwanuku – I’m Getting Ready
 03. Charles Williams – Standing In The Way
@@ -10,10 +11,25 @@ tracklist:
 09. Chris Jae - Josephine
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Jin Seow
+
+Title: Jin Seow
+
 ----
-author_website: http://www.rarenyc.tumblr.com/
+
+Author-website: http://www.rarenyc.tumblr.com/
+
 ----
-text: Although I live in big bad smelly NYC, I’m a tropical, nature boy at heart. Give me bare feet, salty-sweet breeze, dewy mornings anytime. This mix takes me back to 85’, driving with my family to our favorite rustic beach town Penang, Malaysia. Mom belting out Chris Rae’s Josephine horribly loud, as us kids stick our heads out of the window, eyes shut, taking in that easy carefree vibe.
+
+Text: Although I live in big bad smelly NYC, I’m a tropical, nature boy at heart. Give me bare feet, salty-sweet breeze, dewy mornings anytime. This mix takes me back to 85’, driving with my family to our favorite rustic beach town Penang, Malaysia. Mom belting out Chris Rae’s Josephine horribly loud, as us kids stick our heads out of the window, eyes shut, taking in that easy carefree vibe.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jin-seow-for-intermission/

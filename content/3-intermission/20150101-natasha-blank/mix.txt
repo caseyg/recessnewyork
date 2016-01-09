@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Lake People - Point in Time
 02. Eats Everything - Whatever Whatever
 03. The Mast - So Right
@@ -7,13 +8,26 @@ tracklist:
 06. Kidnap Kid - So Close (club mix)
 07. Rufus - Desert Night
 
-
-
 ----
+
 Date: 2015-01-01
+
 ----
-title: Natasha Blank
+
+Title: Natasha Blank
+
 ----
-author_website: http://www.djnatashablank.com
+
+Author-website: http://www.djnatashablank.com
+
 ----
-text: Do things different. Get surprised. Kiss a lot. Fall in love with everything.
+
+Text: Do things different. Get surprised. Kiss a lot. Fall in love with everything.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/natasha-blank-for-intermission/

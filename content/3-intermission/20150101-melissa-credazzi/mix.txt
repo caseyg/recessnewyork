@@ -1,19 +1,32 @@
-tracklist:
+Tracklist: 
+
 01. Caldera - Ancient Source
 02. Todd Rundgren - Lost Horizon
 03. Quincy Jones - Tell Me A Bedtime Story 
 04. Tom Browne - Thighs High (Grip Your Hips And Move)
 05. Bernard Wright - Master Rocker
 06. George Benson - World Is A Ghetto
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Melissa Credazzi
-----
-author_website: https://www.facebook.com/melissa.credazzi?fref=nf
-----
-text: Music is my sanctuary 
 
+----
 
+Title: Melissa Credazzi
+
+----
+
+Author-website: https://www.facebook.com/melissa.credazzi?fref=nf
+
+----
+
+Text: Music is my sanctuary
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/melissa-credazzi-for-intermission/

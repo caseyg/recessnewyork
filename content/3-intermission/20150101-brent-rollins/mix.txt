@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. David Essex - Rock On
 02. Secos e Molhados - Sangue Latino
 03. Mos Def - Bedstuy Parade
@@ -10,12 +11,26 @@ tracklist:
 09. Latin Playboys- Mr. Wobble
 10. The Spinners- The Rubberband Man
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Brent Rollins
+
 ----
-title: Brent Rollins
+
+Author-website: http://brentrollins.com
+
 ----
-author_website: http://brentrollins.com
+
+Text: It was the dead of winter in 1995 when I art directed a photoshoot with Ol' Dirty Bastard, RIP. We were covering his debut album for a magazine and wanted to get all these wild action shots of him just buggin' out in front of the camera. So we tell him what we expecting,  cause he's wild and stuff, you know? And I will never forget his response -- "Nah man. I'm on some cool out shit." Words to live by.
+
 ----
-text: It was the dead of winter in 1995 when I art directed a photoshoot with Ol' Dirty Bastard, RIP. We were covering his debut album for a magazine and wanted to get all these wild action shots of him just buggin' out in front of the camera. So we tell him what we expecting,  cause he's wild and stuff, you know? And I will never forget his response -- "Nah man. I'm on some cool out shit." Words to live by.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/brent-rollins-for-intermission/

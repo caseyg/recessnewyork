@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nao vs. A.K. Paul - So Good
 02. Raleigh Ritchie - A Moor
 03. Sade - Nothing Can Come Between Us (Pomo Edit)
@@ -11,10 +12,25 @@ tracklist:
 10. Rush Midnight - Closer
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Mr Dingleberries
+
+Title: Mr Dingleberries
+
 ----
-author_website: https://myspace.com/djdingleberries
+
+Author-website: https://myspace.com/djdingleberries
+
 ----
-text: "We are the music makers and we are the dreamers of dreams" - Willy Wonka
+
+Text: "We are the music makers and we are the dreamers of dreams" - Willy Wonka
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/mr-dingleberries-for-intermission/

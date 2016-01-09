@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. De La Soul - Sunshine
 02. IAMNOBODI - When You Know It
 03. Ludacris feat. Miguel - Good Lovin
@@ -17,11 +18,25 @@ tracklist:
 16. Aaliyah ft Timbaland - Are U That Somebody
 
 ----
-Date: 2015-01-01
-----
-title: Ross Goldin
-----
-author_website: http://instagram.com/rossgoldin
-----
-text: This mix is for cheese fries, root beers, bike rides and best friends. Life can get hectic and sometimes and it's important not to get caught in the current when you're just trying to take a dip.
 
+Date: 2015-01-01
+
+----
+
+Title: Ross Goldin
+
+----
+
+Author-website: http://instagram.com/rossgoldin
+
+----
+
+Text: This mix is for cheese fries, root beers, bike rides and best friends. Life can get hectic and sometimes and it's important not to get caught in the current when you're just trying to take a dip.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ross-goldin-for-intermission/

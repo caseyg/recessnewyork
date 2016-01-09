@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Protoplasm / Black Rain
 02. The Last Foundry / Raime
 03. Vanishing Point / Grouper
@@ -6,14 +7,27 @@ tracklist:
 05. Bones (edit) / Ellll
 06. Hapless Gather / Lawrence English
 07. Skinned / Boothroyd
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Matt Busher
-----
-author_website: https://instagram.com/mattbusher
-----
-text: All those forgotten corners, alleys and in-between places are what makes a city. The edgelands. This is their soundtrack.
 
+----
+
+Title: Matt Busher
+
+----
+
+Author-website: https://instagram.com/mattbusher
+
+----
+
+Text: All those forgotten corners, alleys and in-between places are what makes a city. The edgelands. This is their soundtrack.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/matt-busher-for-intermission/

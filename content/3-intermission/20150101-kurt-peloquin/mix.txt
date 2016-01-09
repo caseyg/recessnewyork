@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Intro - Life Stone by Kurt Is Flow & Didier Michel 
 02. Santo Domingo - Rodrigo y Gabriella 
 03. No Going Back (Acoustic) - Rox 
@@ -8,13 +9,28 @@ tracklist:
 07. Satisfaction - Allen Stone 
 08. Stick to You - Tingsek ft. Slakah the Beatchild  
 09. Love Never Felt So Good - Michael Jackson 
-10. Oceans Away - Didier Michele 
+10. Oceans Away - Didier Michele
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Kurt Peloquin
+
+Title: Kurt Peloquin
+
 ----
-author_website: http://www.greatpeopleunite.com
+
+Author-website: http://www.greatpeopleunite.com
+
 ----
-text: I love uniting with great people, to play, sway, and build a path to a better way.   Letting go, falling through, and re-discovering a state of flow. Full expression, embodied reflection, and artful confessions. The sounds abound. Here are some tunes turning in my head, hope you dig it.
+
+Text: I love uniting with great people, to play, sway, and build a path to a better way.   Letting go, falling through, and re-discovering a state of flow. Full expression, embodied reflection, and artful confessions. The sounds abound. Here are some tunes turning in my head, hope you dig it.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/kurt-peloquin-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Summer in the City - Quincy Jones
 02. The City - Alfie Moss
 03. I Just Love You - RAMP
@@ -15,12 +16,26 @@ tracklist:
 14. I Love You! I Love you Completely - Exit 9
 15. Summertime - McNeal & Niles
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Mark Rancourt
+
 ----
-title: Mark Rancourt
+
+Author-website: http://www.extrafancybklyn.com
+
 ----
-author_website: http://www.extrafancybklyn.com
+
+Text: As the thermometer starts to rise into three digit territory, there is an unspoken agreement that NYC unofficially takes a summer long extended RECESS. Cars, bodegas, apartments and restaurants all open their windows as wide as they can and the sounds of the city take over. Neighbors battle neighbors to show off their new favorite summer jam and the mixture is intoxicating. This quick little mix is what summer RECESS in Brooklyn sounds like to me.
+
 ----
-text: As the thermometer starts to rise into three digit territory, there is an unspoken agreement that NYC unofficially takes a summer long extended RECESS. Cars, bodegas, apartments and restaurants all open their windows as wide as they can and the sounds of the city take over. Neighbors battle neighbors to show off their new favorite summer jam and the mixture is intoxicating. This quick little mix is what summer RECESS in Brooklyn sounds like to me. 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/mark-rancourt-for-intermission/

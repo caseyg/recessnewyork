@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Billie Holiday - A Foggy Day (1957)
 02. John Coltrane - After The Rain (1963) 
 03. John Coltrane - I Want to Talk About You (1958)
@@ -6,13 +7,26 @@ tracklist:
 (Live At Newport - 1958)
 05. The Miles Davis Quintet - It Never Entered My Mind (1956)
 
-
-
 ----
+
 Date: 2015-01-01
+
 ----
-title: Lee Harrison
+
+Title: Lee Harrison
+
 ----
-author_website: http://madebylee.net
+
+Author-website: http://madebylee.net
+
 ----
-text: Improvise. Realize. Be cool. Stay jazzy.
+
+Text: Improvise. Realize. Be cool. Stay jazzy.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/lee-harrison-for-intermission/

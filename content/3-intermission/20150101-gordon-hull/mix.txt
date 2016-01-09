@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nas - Get Down
 02. Shintaro Sakamoto - Extremely Bad Man
 03. Allah-Las - Ela Navega
@@ -6,15 +7,27 @@ tracklist:
 05. Los Silvertones - Up Tight
 06. Bonobo - Cirrus
 07. Eliphino - More Than Me
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Gordon Hull
-----
-author_website: http://www.gordonharrisonhull.com
-----
-text: Recess is a state of mind. Cut loose get loose be loose. Get into it and get away from it. Let time turn itself on its head. That's what Recess is about to me. It's a giant plate of blueberries. It's the magic shape of a cloud. It's the smell of blown out birthday candles. It's latching on to that super beat on the dance floor and just going for it. It's life on the dub out, echo chamber on maximum. It's about being. And being free.  
 
+----
 
+Title: Gordon Hull
+
+----
+
+Author-website: http://www.gordonharrisonhull.com
+
+----
+
+Text: Recess is a state of mind. Cut loose get loose be loose. Get into it and get away from it. Let time turn itself on its head. That's what Recess is about to me. It's a giant plate of blueberries. It's the magic shape of a cloud. It's the smell of blown out birthday candles. It's latching on to that super beat on the dance floor and just going for it. It's life on the dub out, echo chamber on maximum. It's about being. And being free.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/gordon-hull-for-intermission/

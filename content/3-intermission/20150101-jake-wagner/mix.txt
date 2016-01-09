@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Vacationer - Good As New
 02. The Preatures - Is This How You Feel (Classixx Remix)
 03. Ephemerals - You Made Us Change
@@ -9,19 +10,32 @@ tracklist:
 08. Amason - Went to War
 09. George Harrison - What Is Life
 
-  
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Jake Wagner
+
 ----
-title: Jake Wagner
+
+Author-website: http://www.undrtone.com/jakewagner
+
 ----
-author_website: http://www.undrtone.com/jakewagner
-----
-text: Soul is eternal. 
+
+Text: 
+
+Soul is eternal. 
 
 Music comes from the soul. 
 
-Music is eternal.  
+Music is eternal.
 
+----
 
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jake-wagner-for-intermission/

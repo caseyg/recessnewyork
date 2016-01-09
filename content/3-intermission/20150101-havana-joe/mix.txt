@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Nao Tem Nada Nao - Marcos Valle
 02. I Don't Really Care - LV Johnson
 03. random Brazilian song J-Rocc gave me
@@ -10,12 +11,26 @@ tracklist:
 09. Call My Name - Joe Bataan
 10. Estrella - Marcos Valle
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Havana Joe
+
 ----
-title: Havana Joe
+
+Author-website: http://pugilistatrading.com
+
 ----
-author_website: http://pugilistatrading.com
+
+Text: Appreciative of friends & family here & elsewhere. Being able to travel as much as I have this year & spend time with folks puts a lot of shit in perspective. Made this mix with all of them in mind.
+
 ----
-text: Appreciative of friends & family here & elsewhere. Being able to travel as much as I have this year & spend time with folks puts a lot of shit in perspective. Made this mix with all of them in mind. 
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/havana-joe-for-intermission/

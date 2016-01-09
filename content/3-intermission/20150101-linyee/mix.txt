@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Just A Little Lovin' - Carmen McRae
 02. Summertime - Inga Brandenburg
 03. Don't Stay Away - Phyllis Dillon
@@ -7,14 +8,28 @@ tracklist:
 06. Millionaire - Kelis feat Andre 3000
 07. Simili Life - Quadron
 08. 1991 - Azaelia Banks
-09. Summer Sun - Koop 
-
+09. Summer Sun - Koop
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: LinYee 
+
+Title: LinYee
+
 ----
-author_website: http://www.thisismold.com
+
+Author-website: http://www.thisismold.com
+
 ----
-text: Summer RECESS, percolating with beach glow, backyard barbecues and breezy fashions, has always been the best RECESS. There's always music crackling from a bodega radio or radiating from a deejay's massive sound system that becomes the patchwork for a killer soundtrack. Here's a sampling of some of my favorite records from outdoor dance parties, far-flung beaches and lazy summer Sundays of yore. Big laughs and new adventures in this summer of love.
+
+Text: Summer RECESS, percolating with beach glow, backyard barbecues and breezy fashions, has always been the best RECESS. There's always music crackling from a bodega radio or radiating from a deejay's massive sound system that becomes the patchwork for a killer soundtrack. Here's a sampling of some of my favorite records from outdoor dance parties, far-flung beaches and lazy summer Sundays of yore. Big laughs and new adventures in this summer of love.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/linyee-for-intermission/

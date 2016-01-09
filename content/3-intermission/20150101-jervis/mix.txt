@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Space Dimension Controller – Last Sunset on Planet Earth
 02. Art Hoyle – The Fantasy
 03. Bev Lea Harling – Sunlight
@@ -15,10 +16,25 @@ tracklist:
 14. Isaac Hayes - Hung Up On My Baby
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Andrew Jervis
+
+Title: Andrew Jervis
+
 ----
-author_website: http://www.thesportofselection.com
+
+Author-website: http://www.thesportofselection.com
+
 ----
-text: My RECESS mix is the imaginary soundtrack to a hazy summertime dream at the beach. When not hosting Friday Night Session, curating The Sport of Selection, or helping out a band or two, I RECESS at Stinson Beach. Run the shallows with my lil’ Ruby. Cook on the grill. Turn up the summer tunes. Simple pleasures under the sun are some of the best.
+
+Text: My RECESS mix is the imaginary soundtrack to a hazy summertime dream at the beach. When not hosting Friday Night Session, curating The Sport of Selection, or helping out a band or two, I RECESS at Stinson Beach. Run the shallows with my lil’ Ruby. Cook on the grill. Turn up the summer tunes. Simple pleasures under the sun are some of the best.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/andrew-jervis-for-intermission/

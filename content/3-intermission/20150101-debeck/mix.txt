@@ -19,7 +19,7 @@ Date: 2015-01-01
 
 ----
 
-title: jDeBeck aka Selector JD
+Title: debeck
 
 ----
 
@@ -35,8 +35,8 @@ Audio: /assets/1-TETSURO.m4a
 
 ----
 
-Title: debeck
+Herobackgroundcolor: 
 
 ----
 
-Herobackgroundcolor: 
+Mixcloud: https://www.mixcloud.com/recessnewyork/jason-debeck-for-intermission/

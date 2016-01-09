@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. HNNY - Fresh Laundry
 02. Tweet - Boogie 2 Nite
 03. Stevie Wonder - As (whiskey barons rework)
@@ -12,14 +13,27 @@ tracklist:
 11. Sherrick - Just Call
 12. THATMANMONKZ - Make It Now
 13. George Duke - I Want You For Myself
-  
 
 ----
+
 Date: 2015-01-01
-----
-title: Zephyr Doles
-----
-author_website: http://www.soundcloud.com/zephyr_ann
-----
-text: Recess is always best when taken outside. A mix that's both familiar and fresh, just like the sun greeting your skin as the air starts to heat up. If that magical twilight between spring and summer could sound have a playlist, these are some of the tracks that would be in mine.
 
+----
+
+Title: Zephyr Doles
+
+----
+
+Author-website: http://www.soundcloud.com/zephyr_ann
+
+----
+
+Text: Recess is always best when taken outside. A mix that's both familiar and fresh, just like the sun greeting your skin as the air starts to heat up. If that magical twilight between spring and summer could sound have a playlist, these are some of the tracks that would be in mine.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/zephyr-doles-for-intermission/

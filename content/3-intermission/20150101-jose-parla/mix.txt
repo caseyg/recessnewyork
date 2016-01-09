@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Cancion de Orfeo - Los Zafiros
 02. La Caminoadora - Los Zafiros
 03. El Carbonero - La Lupe
@@ -12,16 +13,30 @@ tracklist:
 11. Alto Songo - Afro Cuban All Stars
 12. Alto Songo - F. Chappotin
 13. Mambo Ete - Beny More y Perez Prado
- 
-
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Jose Parla
+
+Title: Jose Parla
+
 ----
-author_website: http://www.joseparla.com
+
+Author-website: http://www.joseparla.com
+
 ----
-text: Happiness exists on earth, and it is won through prudent exercise of reason, knowledge of the harmony of the universe, and constant practice of generosity 
+
+Text: 
+
+Happiness exists on earth, and it is won through prudent exercise of reason, knowledge of the harmony of the universe, and constant practice of generosity 
 - Jose Marti
 
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jose-parla-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Faith Evans - Faithful (Interlude)
 02. Amerie- Can't Let Go
 03. Case & Joe - Faded Pictures
@@ -11,10 +12,25 @@ tracklist:
 10. Tweet - Two of Us
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Myles Tipley
+
+Title: Myles Tipley
+
 ----
-author_website: http://myleshenry.blogspot.com
+
+Author-website: http://myleshenry.blogspot.com
+
 ----
-text: I remember a few years back I was driving with my wife and my friend Deidre, and Deidre said "Myles you have the musical taste of a 45 year old black woman." I took it as a compliment. I listen to a lot of R&B and always have, this is an R&B mix with a sort of mellow Sunday afternoon type feel, I hope you all enjoy it.
+
+Text: I remember a few years back I was driving with my wife and my friend Deidre, and Deidre said "Myles you have the musical taste of a 45 year old black woman." I took it as a compliment. I listen to a lot of R&B and always have, this is an R&B mix with a sort of mellow Sunday afternoon type feel, I hope you all enjoy it.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/myles-tipley-for-intermission/

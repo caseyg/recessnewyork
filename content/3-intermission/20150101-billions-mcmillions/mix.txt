@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Intro - Various silliness over a DJ Design beat
 02. Friend or Foe - Jay-Z
 03. Smooth Operator - Big Daddy Kane
@@ -14,10 +15,25 @@ tracklist:
 13. Up All Night - Boomtown Rats
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Billions McMillions
+
+Title: Billions McMillions
+
 ----
-author_website: http://billmcmullen.com
+
+Author-website: http://billmcmullen.com
+
 ----
-text: Summertime mix for a warm night, spent with people you want to know better. Some new tracks I love, a few mash-up mixes, and some classic bangers I used to play to get the club jumping when I used to DJ more - way back now.
+
+Text: Summertime mix for a warm night, spent with people you want to know better. Some new tracks I love, a few mash-up mixes, and some classic bangers I used to play to get the club jumping when I used to DJ more - way back now.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/billions-mcmillions-for-intermission/

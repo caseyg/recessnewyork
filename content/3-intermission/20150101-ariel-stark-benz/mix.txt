@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Artist Uknown - Summertime 
 02. The Kinks - The Way Love Used To Be 
 03. Project Matt - So Curious 
@@ -14,12 +15,26 @@ tracklist:
 13. Fort Romeau - Jack Rollin' 
 14. Todd Terje - Inspector Norse
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Ariel Stark-Benz
+
 ----
-title: Ariel Stark-Benz
+
+Author-website: http://www.hightidenyc.com
+
 ----
-author_website: http://www.hightidenyc.com
+
+Text: RECESS was good to me starting at a very young age. At the hippie school I attended since kindergarten, you referred to teachers by their first name, you could wear hats, and they permitted the skate session that I used for my daily recess. Now its typically spent at Rockaway, or less often Playa Avellanas for surf sessions.
+
 ----
-text: RECESS was good to me starting at a very young age. At the hippie school I attended since kindergarten, you referred to teachers by their first name, you could wear hats, and they permitted the skate session that I used for my daily recess. Now its typically spent at Rockaway, or less often Playa Avellanas for surf sessions.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ariel-stark-benz-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. All Night - Chris Rainbow
 02. Sparkle - Green Wood
 03. Rock and Rave - Third World
@@ -10,15 +11,31 @@ tracklist:
 09. Proper Stranger - The Guess Who
 10. Ain't No Shadow - Terry Reid
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Akihiro Yamamoto
+
 ----
-title: Akihiro Yamamoto
+
+Author-website: http://www.foxinternationalchannels.com
+
 ----
-author_website: http://www.foxinternationalchannels.com
-----
-text: One spring day, I packed a whole bag of potato chips and a few cans of coke, dropped them on the backseat of my old Ford and drove anywhere... just anywhere. The car was blasting music from the radio and tapes, enjoyed myself as a stranger from town to town. 
+
+Text: 
+
+One spring day, I packed a whole bag of potato chips and a few cans of coke, dropped them on the backseat of my old Ford and drove anywhere... just anywhere. The car was blasting music from the radio and tapes, enjoyed myself as a stranger from town to town. 
 
 That was my RECESS...still is.
 fb_description: Akihiro Yamamoto for Intermission
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/akihiro-yamamoto-for-intermission/

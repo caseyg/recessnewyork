@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. The A-Cads - Down The Road
 02. Diplomats of Solid Sound - B-O-O-G-A-L-O-O
 03. Talking Heads - Girlfriend Is Better (live)
@@ -6,14 +7,28 @@ tracklist:
 05. Etta James - I’d Rather Go Blind
 06. Crosby, Stills, Nash and Young - Almost Cut My Hair
 07. Prince Language - On The Double
-08. Prince - Extraloveable    
+08. Prince - Extraloveable
 
 ----
+
 Date: 2015-01-01
-----
-title: Alex Merto
-----
-author_website: http://www.alexmerto.com
-----
-text: Moved to California from New York when I was around six years old and discovered most of my music while driving in my parent’s cars. In my mom’s car it was mostly disco and 80s hits, while in my dad’s car it was either The Beatles or the Mission Impossible theme song. Now I listen to music while riding my bike, and these songs are basically my hits.
 
+----
+
+Title: Alex Merto
+
+----
+
+Author-website: http://www.alexmerto.com
+
+----
+
+Text: Moved to California from New York when I was around six years old and discovered most of my music while driving in my parent’s cars. In my mom’s car it was mostly disco and 80s hits, while in my dad’s car it was either The Beatles or the Mission Impossible theme song. Now I listen to music while riding my bike, and these songs are basically my hits.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/alex-merto-for-intermission/

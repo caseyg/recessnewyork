@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Pilita Corrales - Sapagka't Kami'y Tao Lamang
 02. Apocalypse Now OST - Napalm in the Morning (Dialogue)
 03. Kalyanji Anandji - Somebody to Love
@@ -10,14 +11,28 @@ tracklist:
 09. Livewire - The Zone
 10. Fake Glasses - Dancehall
 11. John Holt - Police in Helicopter
-12. J Dilla - Fuck The Police 
-  
+12. J Dilla - Fuck The Police
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Chris Fussner
+
+Title: Chris Fussner
+
 ----
-author_website: https://www.instagram.com/888processingubud
+
+Author-website: https://www.instagram.com/888processingubud
+
 ----
-text: I've been playing for about a year, in a sports analogy I'm your friend that plays basketball with you but isn't really any good and keeps showing up to pickup games. This is how I would sound like if I just hopped on the decks at your spot! 
+
+Text: I've been playing for about a year, in a sports analogy I'm your friend that plays basketball with you but isn't really any good and keeps showing up to pickup games. This is how I would sound like if I just hopped on the decks at your spot!
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/chris-fussner-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Holding On - Disclosure feat. Gregory Porter
 02. What They Say - Mary Jane Coles
 03. Wet Dollars - DJ Tazer feat. Tink
@@ -15,13 +16,27 @@ tracklist:
 14. Lying Together - FKJ
 15. Paradise - Payfone
 16. Magnets (Disclosure V.I.P. Remix) - Disclosure feat. Lorde
-  
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Ibe Soliman
+
+Title: Ibe Soliman
+
 ----
-author_website: http://soundcloud.com/ibesoliman
+
+Author-website: http://soundcloud.com/ibesoliman
+
 ----
-text: Right on Whittier. Left on River. Right on Westbard. Big building on Right. 4th floor.
+
+Text: Right on Whittier. Left on River. Right on Westbard. Big building on Right. 4th floor.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/ibe-soliman-for-intermission/

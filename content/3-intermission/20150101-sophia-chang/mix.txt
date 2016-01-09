@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Bernard Wright - Who Do You Love
 02. Sade - By Your Side (Neptunes Mix)
 03. Evelyn King - Love Come Down
@@ -15,13 +16,26 @@ tracklist:
 14. Monifah feat Heavy D - I Miss You Come Back Home
 15. A Tribe Called Quest - Find A Way
 
-
-
 ----
+
 Date: 2015-01-01
+
 ----
-title: Sophia Chang
+
+Title: Sophia Chang
+
 ----
-author_website: http://www.esymai.com
+
+Author-website: http://www.esymai.com
+
 ----
-text: The sky's the limit.
+
+Text: The sky's the limit.
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/sophia-chang-for-intermission/

@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. The Realm of Difference - Osunlade
 02. Light and Shadow - Cari Live
 03. Last Remnants - Koreless
@@ -10,12 +11,26 @@ tracklist:
 09. Tavern on The Green - Chic
 10. Road - Nick Drake
 
+----
+
+Date: 2015-01-01
 
 ----
-Date: 2015-01-01
+
+Title: Qool DJ Marv
+
 ----
-title: Qool DJ Marv
+
+Author-website: http://djqoolmarvsounds.podomatic.com/
+
 ----
-author_website: http://djqoolmarvsounds.podomatic.com/
+
+Text: Left turns at corners. Page turns on riverside benches. Rooty juicy fresh unless char grilled wild tuna's my tongue's request. Swims in the deep end to float in space. Finds it swell to dwell on do well. Sky-blue notes and full measures; Self-affirming and determining lyrics are my pleasure. Determined to detour minds toward the bright direction. Chart the course.
+
 ----
-text: Left turns at corners. Page turns on riverside benches. Rooty juicy fresh unless char grilled wild tuna's my tongue's request. Swims in the deep end to float in space. Finds it swell to dwell on do well. Sky-blue notes and full measures; Self-affirming and determining lyrics are my pleasure. Determined to detour minds toward the bright direction. Chart the course.
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/qool-dj-marv-for-intermission/

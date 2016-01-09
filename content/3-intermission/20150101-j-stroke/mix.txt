@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Mass Influence - Life to the MC
 02. Styles of Beyond - Winnetka Exit
 03. Primeridian - Musical Mirages
@@ -47,13 +48,26 @@ tracklist:
 46. Outkast - Growing Old
 47. Melinial
 
-
 ----
+
 Date: 2015-01-01
-----
-title: J.Stroke
-----
-author_website: https://soundcloud.com/j-stroke
-----
-text: When I think of Recess, I reflect back to my elementary school daze; the torturous boredom of being dictated to only broken by the brief of mid-day Recess. Only a couple more classes until my imminent release, a true feeling of euphoria I'm always striving for. It's why I make art and music. The empowering knowledge that I go about my days differently than most is truly liberating!
 
+----
+
+Title: J.Stroke
+
+----
+
+Author-website: https://soundcloud.com/j-stroke
+
+----
+
+Text: When I think of Recess, I reflect back to my elementary school daze; the torturous boredom of being dictated to only broken by the brief of mid-day Recess. Only a couple more classes until my imminent release, a true feeling of euphoria I'm always striving for. It's why I make art and music. The empowering knowledge that I go about my days differently than most is truly liberating!
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/jstroke-for-intermission/

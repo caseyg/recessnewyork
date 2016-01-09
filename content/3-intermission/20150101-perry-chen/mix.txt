@@ -1,4 +1,5 @@
-tracklist:
+Tracklist: 
+
 01. Future Markets - Johnny Greenwood
 02. Things Fall Apart -  Zomby
 03. Three Easy Payments - Mitch Hedberg (interlude)
@@ -13,10 +14,25 @@ tracklist:
 12. House Of Balloons / Glass Table Girls - The Weeknd
 
 ----
+
 Date: 2015-01-01
+
 ----
-title: Perry Chen
+
+Title: Perry Chen
+
 ----
-author_website: http://www.kickstarter.com
+
+Author-website: http://www.kickstarter.com
+
 ----
-text: don't be nervous...
+
+Text: don't be nervous...
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Mixcloud: https://www.mixcloud.com/recessnewyork/perry-chen-for-intermission/
