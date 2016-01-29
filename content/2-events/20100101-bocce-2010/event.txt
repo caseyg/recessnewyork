@@ -1,6 +1,4 @@
-Text: 
-
-Participating teams included SNL, Opening Ceremony, Ogilvy, Method, Mangiami, Tokion Factory, Studiobooth, Tango & Sons, Chinatown Soccer Club, Projectpod, Flavorpill, Grand Opening, Brandname, Red Antler, Psyop, Comedy Central, Saturdays, Saatchi & Saatchi, Kickstarter, Catch A Fire, Bocce Ballz, Ace B, Graphic Mob, Catharsis, Planet Fab, PS 260, Bagpak, Theme, Harlemites, Ace A, D+DS, Green Fire
+Text: Participating teams included SNL, Opening Ceremony, Ogilvy, Method, Mangiami, Tokion Factory, Studiobooth, Tango & Sons, Chinatown Soccer Club, Projectpod, Flavorpill, Grand Opening, Brandname, Red Antler, Psyop, Comedy Central, Saturdays, Saatchi & Saatchi, Kickstarter, Catch A Fire, Bocce Ballz, Ace B, Graphic Mob, Catharsis, Planet Fab, PS 260, Bagpak, Theme, Harlemites, Ace A, D+DS, Green Fire
 
 ----
 
@@ -16,7 +14,7 @@ Sport: bocce
 
 ----
 
-Title: bocce-2010
+Title: Bocce-2010
 
 ----
 
@@ -25,3 +23,15 @@ Date: 2010-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

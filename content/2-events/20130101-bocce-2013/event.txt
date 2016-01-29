@@ -1,7 +1,4 @@
-Text: 
-
-Participating teams included The Design Gym, Cut + Paste, Cornerstone, Warby Parker, Easy Intl, Great People Unite, Jeepney, Bagpak, Jaegersloan, Yamagucci, PS260, The Mill, Design Club, Graphiatrist, Drip.fm, Extra Fancy, Cousin, Bocce Babes, Psyop, D+DS, Ft Greeners, Armani X, Vamos Papi, Glorious Basterds, Redscout, Method, Hello Camelo, Kill Screen and SHY Creative.
-
+Text: Participating teams included The Design Gym, Cut + Paste, Cornerstone, Warby Parker, Easy Intl, Great People Unite, Jeepney, Bagpak, Jaegersloan, Yamagucci, PS260, The Mill, Design Club, Graphiatrist, Drip.fm, Extra Fancy, Cousin, Bocce Babes, Psyop, D+DS, Ft Greeners, Armani X, Vamos Papi, Glorious Basterds, Redscout, Method, Hello Camelo, Kill Screen and SHY Creative.
 
 ----
 
@@ -17,7 +14,7 @@ Year: 2013
 
 ----
 
-Title: bocce-2013
+Title: Bocce-2013
 
 ----
 
@@ -26,3 +23,15 @@ Date: 2013-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

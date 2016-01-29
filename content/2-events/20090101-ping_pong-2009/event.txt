@@ -1,6 +1,4 @@
-Text: 
-
-Participating teams included Kickstarter, We Make It Good, Smart Design, Brooklyn Bowl, Les Vins, Theme, Red Bucket Films, Tinbot, Comedy Central, Projectpod, Flavorpill, Santos Party House, 10.Deep, Catharsis, PS260, aruliden, Ogilvy, Son & Sons, Lovely Day, Thompson Hotels, ProAm, Art Directors Club, Threadwell, Studiobooth, D+DS, Syrup, Electric Lila, McCann Erickson, Grand Opening, Exposure, Psyop, Cornerstone
+Text: Participating teams included Kickstarter, We Make It Good, Smart Design, Brooklyn Bowl, Les Vins, Theme, Red Bucket Films, Tinbot, Comedy Central, Projectpod, Flavorpill, Santos Party House, 10.Deep, Catharsis, PS260, aruliden, Ogilvy, Son & Sons, Lovely Day, Thompson Hotels, ProAm, Art Directors Club, Threadwell, Studiobooth, D+DS, Syrup, Electric Lila, McCann Erickson, Grand Opening, Exposure, Psyop, Cornerstone
 
 ----
 
@@ -16,7 +14,7 @@ Sport: ping pong
 
 ----
 
-Title: ping_pong-2009
+Title: Ping Pong-2009
 
 ----
 
@@ -25,3 +23,15 @@ Date: 2009-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

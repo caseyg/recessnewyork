@@ -1,6 +1,4 @@
-Text: 
-
-Participating teams included Throne of Blood, Mangiami, The Lab, Graphiatrist, High Snobiety, aruliden, Mssng Peces, Bagpak, Out of Print, Grand Opening, G/GA, Beniz All-Stars, Undercurrent, Studiobooth, Method, Ft Greeners, Cool Hunting, Bonetti Kozerski Studio, Tango & Sons, Psyop, Ghostly, SHY Creative, Planet Fab, Beat Rockers, Anomaly, PS260, Vamos Papi, Ace, Linus Bike, Mathmatiks, Google Creative Lab, Ogilvy
+Text: Participating teams included Throne of Blood, Mangiami, The Lab, Graphiatrist, High Snobiety, aruliden, Mssng Peces, Bagpak, Out of Print, Grand Opening, G/GA, Beniz All-Stars, Undercurrent, Studiobooth, Method, Ft Greeners, Cool Hunting, Bonetti Kozerski Studio, Tango & Sons, Psyop, Ghostly, SHY Creative, Planet Fab, Beat Rockers, Anomaly, PS260, Vamos Papi, Ace, Linus Bike, Mathmatiks, Google Creative Lab, Ogilvy
 
 ----
 
@@ -16,7 +14,7 @@ Sport: bocce
 
 ----
 
-Title: bocce-2011
+Title: Bocce-2011
 
 ----
 
@@ -25,3 +23,15 @@ Date: 2011-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

@@ -1,6 +1,4 @@
-Text: 
-
-Participating teams included Baron & Baron, Freeman’s Sporting Club, Kill Screen, aruliden, Studiobooth, Ace Hotel, Pulino’s, Sypartners, V Magazine, Grandlife, Graphiatrist, Ft Greeners, Applelonians, Emeht, Flavorpill, Syrup, Core 77, Bonetti Kozerski Studio, Tango & Sons, Grand Opening, Wolff Olins, Mathmatiks, Vamos Papi, LT4, Kickstarter, PS260, Lovely Day, Comedy Central, Nylon, Method, Catch A Fire, Psyop
+Text: Participating teams included Baron & Baron, Freeman’s Sporting Club, Kill Screen, aruliden, Studiobooth, Ace Hotel, Pulino’s, Sypartners, V Magazine, Grandlife, Graphiatrist, Ft Greeners, Applelonians, Emeht, Flavorpill, Syrup, Core 77, Bonetti Kozerski Studio, Tango & Sons, Grand Opening, Wolff Olins, Mathmatiks, Vamos Papi, LT4, Kickstarter, PS260, Lovely Day, Comedy Central, Nylon, Method, Catch A Fire, Psyop
 
 ----
 
@@ -16,7 +14,7 @@ Sport: badminton
 
 ----
 
-Title: badminton-2011
+Title: Badminton-2011
 
 ----
 
@@ -25,3 +23,15 @@ Date: 2011-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

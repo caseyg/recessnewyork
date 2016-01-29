@@ -14,7 +14,7 @@ Year: 2013
 
 ----
 
-Title: bowl-2013
+Title: Bowling-2013
 
 ----
 
@@ -27,3 +27,11 @@ Herobackgroundcolor:
 ----
 
 Season: 
+
+----
+
+Time: 
+
+----
+
+Tickets: 

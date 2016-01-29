@@ -1,6 +1,4 @@
-Text: 
-
-Participating teams included Confetti System, Campfire, The Graphic Mob, Red Antler, Kickstarter, Projectpod, D+DS, WESC, Graphiatrist, About, Ace Hotel, Theme, Comedy Central, Cool Hunting, Droga5, Catharsis, The Breslin, Nylon, Flavorpill, Psyop, Lovely Day, Syrup, Base Design, Method, Ghostly, Tango & Sons, PS260, Vicmark, Smashers, Bagpak, Featherballz, Marking Equipment
+Text: Participating teams included Confetti System, Campfire, The Graphic Mob, Red Antler, Kickstarter, Projectpod, D+DS, WESC, Graphiatrist, About, Ace Hotel, Theme, Comedy Central, Cool Hunting, Droga5, Catharsis, The Breslin, Nylon, Flavorpill, Psyop, Lovely Day, Syrup, Base Design, Method, Ghostly, Tango & Sons, PS260, Vicmark, Smashers, Bagpak, Featherballz, Marking Equipment
 
 ----
 
@@ -16,7 +14,7 @@ Sport: badminton
 
 ----
 
-Title: badminton-2010
+Title: Badminton-2010
 
 ----
 
@@ -25,3 +23,15 @@ Date: 2010-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 

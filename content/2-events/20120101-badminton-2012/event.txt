@@ -1,7 +1,4 @@
-Text: 
-
-Participating teams included Cooper Hewitt, Creative Time, MKG, Projectpod, Grand Opening, Indego Africa, Shuttle Cockers, Method, Bagpak, Tango & Sons, Vamos Papi, B.E.A.T. NYC, Graphiatrist, Kill Screen, PS260, Baron & Baron, PXLPNG, Ace Hotel, Opto Design, DDSAO Architects, Pulino’s, The BRM, Sypartners, Bonetti Kozerski Studio, Book Club, Mangiami, M ss ng P eces, Loving Day, L’Oreal, Bad Mittens, Positively 4th Street Productions
-
+Text: Participating teams included Cooper Hewitt, Creative Time, MKG, Projectpod, Grand Opening, Indego Africa, Shuttle Cockers, Method, Bagpak, Tango & Sons, Vamos Papi, B.E.A.T. NYC, Graphiatrist, Kill Screen, PS260, Baron & Baron, PXLPNG, Ace Hotel, Opto Design, DDSAO Architects, Pulino’s, The BRM, Sypartners, Bonetti Kozerski Studio, Book Club, Mangiami, M ss ng P eces, Loving Day, L’Oreal, Bad Mittens, Positively 4th Street Productions
 
 ----
 
@@ -17,7 +14,7 @@ Year: 2012
 
 ----
 
-Title: badminton-2012
+Title: Badminton-2012
 
 ----
 
@@ -26,3 +23,15 @@ Date: 2012-01-01
 ----
 
 Herobackgroundcolor: 
+
+----
+
+Time: 
+
+----
+
+Season: 
+
+----
+
+Tickets: 
