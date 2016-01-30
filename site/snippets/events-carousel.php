@@ -1,4 +1,4 @@
-<div class="hero gallery js-flickity col-xs-12" data-flickity-options='{"autoPlay": true, "wrapAround": true, "pageDots": false}'>
+<div class="hero gallery col-xs-12">
 	<?php 
 	$slides = $page->carousel()->yaml();
 	foreach( $slides as $slide): ?>

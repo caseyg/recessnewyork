@@ -37,6 +37,19 @@ $(function() {
           $('header').css('visibility', 'visible').css('opacity', 1);         
       }
   });
+  <?php if(!$page->parent()->slug() == "events" || $page->parent()->slug() == "studio"): ?>
+  $('.gallery').flickity({
+  	autoPlay: true,
+  	wrapAround: true, 
+  	pageDots: false,
+    arrowShape: { 
+      x0: 10,
+      x1: 60, y1: 50,
+      x2: 65, y2: 50,
+      x3: 15
+    }
+  });
+  <?php endif ?>
 });
 </script>
 </body>

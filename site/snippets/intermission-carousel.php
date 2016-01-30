@@ -1,4 +1,4 @@
-<div class="hero gallery js-flickity col-xs-12" data-flickity-options='{"autoPlay": true, "wrapAround": true, "pageDots": false}'>
+<div class="hero gallery col-xs-12">
 	<?php foreach( $page->children()->limit(4) as $hero): ?>
 		<a class="gallery-cell col-xs-12" href="<?php echo $hero->url() ?>">	
 			<img src="<?php echo $hero->images()->first()->crop('1140','467')->url() ?>" width="1140" height="467">
