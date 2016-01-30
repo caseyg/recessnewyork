@@ -9,8 +9,7 @@
 	</div>
 
 	<div class="col-sm-6">
-		<?php if ($page->mixcloud()->isNotEmpty()): ?><iframe class="mixcloud" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=d34a55ef-78cb-4a95-8648-a4d69c177b28&amp;feed=<?php echo urlencode($page->mixcloud()) ?>&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;mini=1&amp;replace=0" frameborder="0"></iframe><?php endif ?>
-
+		<?php if ($page->mixcloud()->isNotEmpty()): ?><iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=708eec7a-8ea6-40db-9fee-bb79b230b549&amp;feed=<?php echo urlencode($page->mixcloud()) ?>&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;replace=0" frameborder="0"></iframe><?php endif ?>
 		<?php echo $page->text()->kt() ?>
 
 		<h2>Tracklist</h2>
