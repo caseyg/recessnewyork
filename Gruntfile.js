@@ -11,7 +11,7 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'assets/js/app.min.js': ['node_modules/jquery/dist/jquery.min.js', 'assets/js/webfontloader.js', 'assets/js/bigtext.js', 'node_modules/flickity/dist/flickity.pkgd.min.js']
+          'assets/js/app.min.js': ['node_modules/jquery/dist/jquery.min.js', 'assets/js/webfontloader.js', 'node_modules/flickity/dist/flickity.pkgd.min.js']
         }
       }
     },

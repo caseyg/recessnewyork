@@ -1,20 +1,16 @@
-<div class="hero gallery js-flickity" data-flickity-options='{"autoPlay": true, "wrapAround": true, "pageDots": false}'>
+<div class="hero gallery js-flickity col-xs-12" data-flickity-options='{"autoPlay": true, "wrapAround": true, "pageDots": false}'>
 	<?php foreach($page->images()->sortBy(sort, asc) as $slide): ?>
 		<?php if($slide->slideLink()->isNotEmpty()): ?>
-			<a class="gallery-cell col-xs-12" href="<?php echo $slide->slideLink() ?>">	
+			<a class="gallery-cell col-xs-12" href="<?php echo $slide->slideLink() ?>" style="background-color: <?php echo $slide->slidecolor() ?>;">	
 		<?php else: ?>
-			<div class="gallery-cell col-xs-12">	
+			<div class="gallery-cell col-xs-12" style="background-color: <?php echo $slide->slidecolor() ?>;">	
 		<?php endif ?>
-				<div class="jumbotron" style="background-color: <?php echo $slide->slidecolor() ?>; background-image: url('<?php echo $slide->url() ?>');">
-				<?php if($slide->slideOverlay()->isTrue()): ?>
-					<div class="overlay" style="background-color: <?php echo $slide->slideColor() ?>"></div>
-				<?php endif ?>
-					<header>
-						<span>
-							<?php if($slide->slidesubtitle()->isNotEmpty()): ?><h2><?php echo $slide->slidesubtitle() ?></h2><?php endif ?>
-							<?php if($slide->slidetitle()->isNotEmpty()): ?><h1><?php echo $slide->slidetitle() ?></h1><?php endif ?>
-						</span>
-					</header>
+				<img src="<?php echo $slide->crop('977','400')->url() ?>" width="977" height="400">
+				<div class="overlay"<?php if($slide->slideOverlay()->isTrue()): ?>style="background-color: rgba(0,0,0,.5)"<?php endif ?>>
+					<?php if($slide->slidesubtitle()->isNotEmpty() || $slide->slidetitle()->isNotEmpty()): ?>
+						<?php if($slide->slidesubtitle()->isNotEmpty()): ?><h2><?php echo $slide->slidesubtitle() ?></h2><?php endif ?>
+						<?php if($slide->slidetitle()->isNotEmpty()): ?><h1><?php echo $slide->slidetitle() ?></h1><?php endif ?>
+					<?php endif ?>
 				</div>
 		<?php if ($slide->slideLink()->isNotEmpty()): ?>
 			</a>
@@ -23,4 +19,3 @@
 		<?php endif ?>
 	<?php endforeach ?>
 </div>
-<div class="gallery-status"></div>

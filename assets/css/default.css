@@ -5937,10 +5937,6 @@ body {
   font-weight: 200;
   font-size: 17px; }
 
-.jumbotron h1 {
-  font-family: "futura-pt-condensed", sans-serif;
-  font-weight: 800; }
-
 .peek h2 {
   border-top: 1px solid #ccc;
   padding-top: 15px; }
@@ -5979,17 +5975,6 @@ h3 {
   font-weight: 100 !important;
   margin-top: 0;
   margin-bottom: 10px; }
-
-header {
-  text-align: center;
-  vertical-align: bottom; }
-  header h1, header h2 {
-    margin: 0; }
-  header h1 {
-    padding-bottom: 10px; }
-  header h2 {
-    font-family: "futura-pt", sans-serif;
-    font-weight: 100 !important; }
 
 .share {
   text-transform: uppercase;
@@ -6102,48 +6087,69 @@ nav {
   nav .list-inline {
     margin-left: 0; }
 
-.jumbotron {
+.gallery-cell {
+  padding: 0 !important;
+  background-position: center;
+  background-size: cover;
+  border-radius: 0px !important;
+  color: #fff;
+  line-height: 1;
+  margin-bottom: 0;
+  padding: 0;
+  position: relative;
   text-align: center;
   text-transform: uppercase;
-  background-size: cover;
-  background-position: center;
-  margin-bottom: 0;
-  color: #fff;
-  position: relative;
-  height: 200px;
-  border-radius: 0px !important;
-  line-height: 1;
-  width: 100%;
-  padding: 50px; }
-  .jumbotron h1, .jumbotron h2 {
-    color: #fff !important; }
-  @media (min-width: 480px) {
-    .jumbotron {
-      height: 400px; } }
-  .jumbotron .overlay {
-    display: block;
+  width: 100%; }
+  .gallery-cell:hover, .gallery-cell:active {
+    text-decoration: none; }
+  .gallery-cell img {
+    margin: 0;
+    padding: 0; }
+  .gallery-cell .overlay {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: box;
+    box-orient: vertical;
+    box-pack: center;
+    box-align: center;
     width: 100%;
     height: 100%;
-    background: #000;
-    opacity: .5;
     position: absolute;
     top: 0;
-    left: 30px;
-    margin-left: -30px; }
-  .jumbotron header {
+    left: 0; }
+    @media (min-width: 1200px) {
+      .gallery-cell .overlay {
+        padding-top: 120px; } }
+  .gallery-cell h1, .gallery-cell h2 {
+    color: #fff !important;
     position: relative;
-    top: 50%;
-    transform: translateY(-50%); }
-  .jumbotron h1, .jumbotron h2 {
-    position: relative;
-    margin: 0; }
-  .jumbotron h2 {
-    font-size: 1.25em;
+    margin: 0;
+    line-height: 1;
+    padding: 0 45px; }
+  .gallery-cell h1 {
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 800;
+    font-size: 8vw; }
+    @media (min-width: 1200px) {
+      .gallery-cell h1 {
+        font-size: 150px; } }
+  .gallery-cell h2 {
+    font-size: 12px;
     letter-spacing: 1px;
-    margin-top: -1.25em; }
-
-a.gallery-cell:hover, a.gallery-cell:active {
-  text-decoration: none; }
+    font-family: "futura-pt", sans-serif;
+    font-weight: 100 !important; }
+    @media (min-width: 480px) {
+      .gallery-cell h2 {
+        font-size: 24px; } }
+    @media (min-width: 1200px) {
+      .gallery-cell h2 {
+        font-size: 24px; } }
 
 .flickity-prev-next-button {
   border-radius: 0;
@@ -6170,13 +6176,6 @@ a.gallery-cell:hover, a.gallery-cell:active {
   @media (min-width: 480px) {
     .studio .flickity-prev-next-button {
       display: block; } }
-
-.hero.gallery {
-  height: 200px;
-  overflow: hidden; }
-  @media (min-width: 480px) {
-    .hero.gallery {
-      height: 400px; } }
 
 .gallery figure {
   display: block;
