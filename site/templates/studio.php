@@ -8,7 +8,7 @@
 
 <div class="row">
 	<div class="lead text-center col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
-		<img src="/assets/images/flag.png" alt="Flag">
+		<img src="/assets/images/flag.png" width="33" height="18" alt="Flag">
 		<?php echo $page->text()->kt()->widont() ?>
 	</div>
 </div>
