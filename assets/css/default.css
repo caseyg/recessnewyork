@@ -6223,7 +6223,8 @@ footer {
 .grid img {
   width: 100%; }
 .grid a:link, .grid a:visited {
-  color: #000; }
+  color: #000;
+  margin-bottom: 30px; }
 
 .content-header {
   margin-bottom: 10px; }
