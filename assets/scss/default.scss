@@ -13,7 +13,7 @@ body {
 	margin: 30px 0;
 	font-family: "futura-pt", sans-serif;
 	font-weight: 200;
-	font-size: 17px;
+	font-size: 14px;
 }
 
 .peek {
@@ -109,7 +109,7 @@ img {
 
 nav {
 	line-height: 80px;
-	font-size: 15px;
+	font-size: 14px;
 
 	a:link, a:visited {
 		color: #000;
@@ -315,10 +315,6 @@ footer {
 	.btn {
 		border: none;
 		font-weight: bold;
-		float:right;
-		@media (min-width:$screen-md-min) {
-			& {float:none;clear:right;}
-		}
 	}
 	.btn:hover {
 		background: transparent;
@@ -327,9 +323,22 @@ footer {
 	a:link, a:visited {
 		color: #000;
 	}
+	.form-inline {
+		padding: 0;
+	}
+	.follow {
+		margin-top: 30px;
+		@media (min-width: $screen-sm-min) {
+			& {
+				margin-top: 0;
+				text-align: right;
+			}
+		}
+	}
 	@media (min-width: $screen-sm-min) {
-		.follow {
-			text-align: right;
+		label, span, input {
+			width: auto!important;
+			float: none!important;
 		}
 	}
 }

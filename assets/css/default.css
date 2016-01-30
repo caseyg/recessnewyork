@@ -5935,7 +5935,7 @@ body {
   margin: 30px 0;
   font-family: "futura-pt", sans-serif;
   font-weight: 200;
-  font-size: 17px; }
+  font-size: 14px; }
 
 .peek h2 {
   border-top: 1px solid #ccc;
@@ -6006,7 +6006,7 @@ img {
 
 nav {
   line-height: 80px;
-  font-size: 15px; }
+  font-size: 14px; }
   nav a:link, nav a:visited {
     color: #000; }
   nav .active a:link, nav .active a:visited {
@@ -6203,20 +6203,24 @@ footer {
     border-radius: 0 !important; }
   footer .btn {
     border: none;
-    font-weight: bold;
-    float: right; }
-    @media (min-width: 992px) {
-      footer .btn {
-        float: none;
-        clear: right; } }
+    font-weight: bold; }
   footer .btn:hover {
     background: transparent;
     text-decoration: underline; }
   footer a:link, footer a:visited {
     color: #000; }
+  footer .form-inline {
+    padding: 0; }
+  footer .follow {
+    margin-top: 30px; }
+    @media (min-width: 768px) {
+      footer .follow {
+        margin-top: 0;
+        text-align: right; } }
   @media (min-width: 768px) {
-    footer .follow {
-      text-align: right; } }
+    footer label, footer span, footer input {
+      width: auto !important;
+      float: none !important; } }
 
 .social {
   line-height: 20px; }
