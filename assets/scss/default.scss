@@ -38,9 +38,19 @@ h1, h2, h3, h4, h5, h6, nav, footer, .btn {
 }
 
 a:link, a:visited {
+	color: #000;
+	font-weight: bold;
 	h1, h2, h3, h4, h5, h6 {
 		color: #000;
 	}
+}
+
+a:hover {
+	color: #f00!important;
+}
+
+a:active {
+	color: #000!important;
 }
 
 h1 {
@@ -111,9 +121,6 @@ nav {
 
 	a:link, a:visited {
 		color: #000;
-	}
-	a:hover, a:active {
-		color: #f00;
 	}
 	.active a:link, .active a:visited {
 		color: #f00;

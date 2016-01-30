@@ -5952,8 +5952,17 @@ h1, h2, h3, h4, h5, h6, nav, footer, .btn {
   text-transform: uppercase;
   letter-spacing: 1px; }
 
-a:link h1, a:link h2, a:link h3, a:link h4, a:link h5, a:link h6, a:visited h1, a:visited h2, a:visited h3, a:visited h4, a:visited h5, a:visited h6 {
-  color: #000; }
+a:link, a:visited {
+  color: #000;
+  font-weight: bold; }
+  a:link h1, a:link h2, a:link h3, a:link h4, a:link h5, a:link h6, a:visited h1, a:visited h2, a:visited h3, a:visited h4, a:visited h5, a:visited h6 {
+    color: #000; }
+
+a:hover {
+  color: #f00 !important; }
+
+a:active {
+  color: #000 !important; }
 
 h1 {
   font-size: 22px;
@@ -6006,8 +6015,6 @@ nav {
   font-size: 15px; }
   nav a:link, nav a:visited {
     color: #000; }
-  nav a:hover, nav a:active {
-    color: #f00; }
   nav .active a:link, nav .active a:visited {
     color: #f00;
     font-weight: bold; }
