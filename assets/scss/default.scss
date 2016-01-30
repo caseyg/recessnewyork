@@ -210,11 +210,6 @@ nav {
 		position: absolute;
 			top: 0;
 			left: 0;
-		@media (min-width: $screen-lg-min) {
-			& {
-				padding-top: 120px;
-			}
-		}
 	}
 	h1, h2 {
 		color: #fff!important;
@@ -226,28 +221,19 @@ nav {
 	h1 {
 		font-family: "futura-pt-condensed", sans-serif;
 		font-weight: 800;
-		font-size: 8vw;
-		@media (min-width: $screen-lg-min) {
-			& {
-				font-size: 150px;
-			}
-		}
+		font-size: 36px;
+		@media (min-width: $screen-sm-min) {&{font-size: 46px;}}
+		@media (min-width: $screen-md-min) {&{font-size: 72px;}}
+		@media (min-width: $screen-lg-min) {&{font-size: 72px;}}
 	}
 	h2 {
-		font-size: 12px;
 		letter-spacing: 1px;
 		font-family: "futura-pt", sans-serif;
 		font-weight: 100!important;
-		@media (min-width: $screen-xs-min) {
-			& {
-				font-size: 24px;
-			}
-		}
-		@media (min-width: $screen-lg-min) {
-			& {
-				font-size: 24px;
-			}
-		}
+		font-size: 12px;
+		@media (min-width: $screen-sm-min) {&{font-size: 12px;}}
+		@media (min-width: $screen-md-min) {&{font-size: 15px;}}
+		@media (min-width: $screen-lg-min) {&{font-size: 15px;}}
 	}
 }
 

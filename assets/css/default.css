@@ -6130,9 +6130,6 @@ nav {
     position: absolute;
     top: 0;
     left: 0; }
-    @media (min-width: 1200px) {
-      .gallery-cell .overlay {
-        padding-top: 120px; } }
   .gallery-cell h1, .gallery-cell h2 {
     color: #fff !important;
     position: relative;
@@ -6142,21 +6139,30 @@ nav {
   .gallery-cell h1 {
     font-family: "futura-pt-condensed", sans-serif;
     font-weight: 800;
-    font-size: 8vw; }
+    font-size: 36px; }
+    @media (min-width: 768px) {
+      .gallery-cell h1 {
+        font-size: 46px; } }
+    @media (min-width: 992px) {
+      .gallery-cell h1 {
+        font-size: 72px; } }
     @media (min-width: 1200px) {
       .gallery-cell h1 {
-        font-size: 150px; } }
+        font-size: 72px; } }
   .gallery-cell h2 {
-    font-size: 12px;
     letter-spacing: 1px;
     font-family: "futura-pt", sans-serif;
-    font-weight: 100 !important; }
-    @media (min-width: 480px) {
+    font-weight: 100 !important;
+    font-size: 12px; }
+    @media (min-width: 768px) {
       .gallery-cell h2 {
-        font-size: 24px; } }
+        font-size: 12px; } }
+    @media (min-width: 992px) {
+      .gallery-cell h2 {
+        font-size: 15px; } }
     @media (min-width: 1200px) {
       .gallery-cell h2 {
-        font-size: 24px; } }
+        font-size: 15px; } }
 
 .flickity-prev-next-button {
   border-radius: 0;
