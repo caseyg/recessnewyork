@@ -20,9 +20,9 @@
 			<!--End mc_embed_signup-->
 			<ul class="follow list-inline col-xs-12 col-sm-5">
 				<li><strong>Follow Us:</strong></li>
-				<li><a href=""><i class="fa fa-facebook"></i></a></li>
-				<li><a href=""><i class="fa fa-instagram"></i></a></li>
-				<li><a href=""><i class="fa fa-vimeo"></i></a></li>
+				<li><a href="http://facebook.com/recessnewyork"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="http://instagram.com/khairimdnor"><i class="fa fa-instagram"></i></a></li>
+				<li><a href="http://vimeo.com/recessnewyork"><i class="fa fa-vimeo"></i></a></li>
 			</ul>
 		</footer>
 	</div>
