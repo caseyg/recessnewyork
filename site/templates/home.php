@@ -16,9 +16,16 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-3">
+	<div class="col-xs-12 col-sm-3 intermission-peek">
 		<h2>Intermission</h2>
-		<?php snippet('page-peek', array('section' => 'intermission')) ?>
+		<div class="js-flickity" data-flickity-options='{"autoPlay": true, "prevNextButtons": false, "pageDots": false, "wrapAround": true}'>
+			<?php foreach( $pages->find('intermission')->children()->limit(4) as $hero): ?>
+				<a class="gallery-cell" href="<?php echo $hero->url() ?>">	
+					<h3><?php echo $hero->title() ?></h3>
+					<img src="<?php echo $hero->images()->first()->crop('375','375')->url() ?>" width="375" height="375">
+				</a>
+			<?php endforeach ?>
+		</div>
 	</div>
 </div>
 <?php snippet('footer') ?>

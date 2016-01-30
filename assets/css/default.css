@@ -5941,6 +5941,10 @@ body {
   border-top: 1px solid #ccc;
   padding-top: 15px; }
 
+.intermission-peek .gallery-cell {
+  margin-right: 10px;
+  text-align: left; }
+
 hr {
   border-top: 1px solid #ccc; }
 
