@@ -5991,8 +5991,11 @@ h3 {
   margin-right: 15px; }
 
 .row {
-  margin-bottom: 15px; }
+  margin-bottom: 0; }
   @media (min-width: 480px) {
+    .row {
+      margin-bottom: 15px; } }
+  @media (min-width: 992px) {
     .row {
       margin-bottom: 30px; } }
 

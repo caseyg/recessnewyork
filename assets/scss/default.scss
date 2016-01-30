@@ -88,8 +88,13 @@ h3 {
 }
 
 .row {
-	margin-bottom: 15px;
+	margin-bottom: 0;
 	@media (min-width: $screen-xs-min) {
+		& {
+			margin-bottom: 15px;
+		}
+	}
+	@media (min-width: $screen-md-min) {
 		& {
 			margin-bottom: 30px;
 		}
