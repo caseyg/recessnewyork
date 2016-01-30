@@ -6238,13 +6238,28 @@ footer {
 .content-header {
   margin-bottom: 10px; }
 
-iframe.mixcloud {
-  margin-bottom: 15px; }
-
 .row.main {
   margin-bottom: 0; }
 
-body.intermission ol {
-  padding-left: 1.5em; }
+body.intermission iframe.mixcloud {
+  margin-bottom: 15px; }
+body.intermission .info {
+  max-height: 555px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column; }
+  @media (min-width: 768px) {
+    body.intermission .info {
+      max-height: 345px; } }
+  @media (min-width: 992px) {
+    body.intermission .info {
+      max-height: 455px; } }
+  @media (min-width: 1200px) {
+    body.intermission .info {
+      max-height: 555px; } }
+  body.intermission .info ol {
+    padding-left: 1.5em;
+    overflow: scroll;
+    margin-bottom: 0; }
 
 /*# sourceMappingURL=default.css.map */

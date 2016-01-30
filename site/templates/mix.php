@@ -4,12 +4,12 @@
 
 	<div class="col-sm-6">
 		<div class="row">
-			<img class="col-xs-12" src="<?php echo $page->images()->first()->url() ?>" alt="<?php echo $page->title() ?>">
+			<img class="col-xs-12" src="<?php echo $page->images()->first()->resize(555,555)->url() ?>" width="555" height="555" alt="<?php echo $page->title() ?>">
 		</div>
 	</div>
 
-	<div class="col-sm-6">
-		<?php if ($page->mixcloud()->isNotEmpty()): ?><iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=708eec7a-8ea6-40db-9fee-bb79b230b549&amp;feed=<?php echo urlencode($page->mixcloud()) ?>&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;replace=0" frameborder="0"></iframe><?php endif ?>
+	<div class="col-sm-6 info">
+		<?php if ($page->mixcloud()->isNotEmpty()): ?><iframe class="mixcloud" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=708eec7a-8ea6-40db-9fee-bb79b230b549&amp;feed=<?php echo urlencode($page->mixcloud()) ?>&amp;hide_artwork=1&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;replace=0" frameborder="0"></iframe><?php endif ?>
 		<?php echo $page->text()->kt() ?>
 
 		<h2>Tracklist</h2>
