@@ -4,6 +4,7 @@ title: Intermission
 deletable: false
 pages:
   template: mix
+  sort: flip
   num:
     mode: date
 files: false
