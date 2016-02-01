@@ -13,13 +13,22 @@ body {
 	margin: 30px 0;
 	font-family: "futura-pt", sans-serif;
 	font-weight: 200;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .peek {
+	h2, h3 {
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
 	h2 {
 		border-top: 1px solid #ccc;
 		padding-top: 15px;
+	}
+	h3 {
+		padding-top: 3px;
+		padding-bottom: 5px;
 	}
 }
 
@@ -42,18 +51,17 @@ h1, h2, h3, h4, h5, h6, nav, footer, .btn {
 
 a:link, a:visited {
 	color: #000;
-	font-weight: bold;
 	h1, h2, h3, h4, h5, h6 {
 		color: #000;
 	}
 }
 
-a:hover {
-	color: #f00!important;
+p a {
+	font-weight: bold;
 }
 
-a:active {
-	color: #000!important;
+a:hover, a:active {
+	color: #f00!important;
 }
 
 h1 {
@@ -63,7 +71,7 @@ h1 {
 
 h2 {
 	font-size: 14px;
-	font-weight: 800!important;
+	font-weight: 700!important;
 	margin-bottom: 5px;
 }
 
@@ -72,6 +80,18 @@ h3 {
 	font-weight: 100!important;
 	margin-top: 0;
 	margin-bottom: 10px;
+}
+
+p, .lead {
+	font-size: 14px;
+}
+
+.lead {
+	margin-top: 30px;
+	h2 {
+		line-height: 1.5;
+		margin-bottom: 30px;
+	}
 }
 
 .share {
@@ -88,6 +108,7 @@ h3 {
 	}
 	h1, h2 {
 		margin-top: 0;
+		padding-bottom: 15px;
 	}
 	.sponsors img {
 		margin-right: 15px;
@@ -177,13 +198,10 @@ nav {
 	background-position: center;
 	background-size: cover;
 	border-radius: 0px!important;
-	color: #fff;
-	line-height: 1;
 	margin-bottom: 0;
 	padding: 0;
 	position: relative;
 	text-align: center;
-	text-transform: uppercase;
 	width: 100%;
 	img {
 		margin: 0;
@@ -212,10 +230,8 @@ nav {
 			left: 0;
 	}
 	h1, h2 {
-		color: #fff!important;
 		position: relative;
 		margin: 0;
-		line-height:1;
 		padding: 0 45px;
 	}
 	h1 {
@@ -286,12 +302,6 @@ nav {
 			margin: auto;
 		}
 	}
-	.lead {
-		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
-		text-align: center;
-	}
 }
 
 .gallery-status {
@@ -301,13 +311,15 @@ nav {
 }
 
 footer {
-	padding-top: 1em;
+	label, strong {
+		font-weight: 100!important;
+	}
 	input {
 		border-radius: 0!important;
 	}
 	.btn {
 		border: none;
-		font-weight: bold;
+			font-weight: 800;
 	}
 	.btn:hover {
 		background: transparent;
@@ -324,6 +336,7 @@ footer {
 		@media (min-width: $screen-sm-min) {
 			& {
 				margin-top: 0;
+				line-height: 34px;
 				text-align: right;
 			}
 		}
@@ -332,6 +345,9 @@ footer {
 		label, span, input {
 			width: auto!important;
 			float: none!important;
+		}
+		span {
+			padding: 0!important;
 		}
 	}
 }
@@ -359,8 +375,6 @@ footer {
 	margin-bottom: 10px;
 	text-align: center;
 }
-
-
 
 .row.main {
 	margin-bottom: 0;

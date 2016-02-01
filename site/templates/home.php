@@ -20,7 +20,7 @@
 		<h2>Intermission</h2>
 		<div class="js-flickity" data-flickity-options='{"autoPlay": true, "prevNextButtons": false, "pageDots": false, "wrapAround": true}'>
 			<?php foreach( $pages->find('intermission')->children()->limit(4) as $hero): ?>
-				<a class="gallery-cell" href="<?php echo $hero->url() ?>">	
+				<a class="gallery-cell" href="<?php echo $hero->url() ?>" width="263" height="352">	
 					<h3><?php echo $hero->title() ?></h3>
 					<img src="<?php echo $hero->images()->first()->crop('375','375')->url() ?>" width="375" height="375">
 				</a>
