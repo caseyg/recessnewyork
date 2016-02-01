@@ -21,8 +21,7 @@ Herotextcolor: #ffffff
 Carousel: 
 
 - 
-  page: foam-tennis-2014
-  image: "0"
+  page: foam-tennis
 - 
   page: bocce-2012
 - 

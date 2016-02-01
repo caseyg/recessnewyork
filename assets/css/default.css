@@ -6208,6 +6208,9 @@ nav {
     display: block;
     margin: auto; }
 
+.gallery.hero h1, .gallery.hero h2 {
+  color: #fff !important; }
+
 .gallery-status {
   width: 100%;
   text-align: center;
