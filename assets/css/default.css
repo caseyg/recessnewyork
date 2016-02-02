@@ -6281,7 +6281,7 @@ body.intermission .info {
       max-height: 555px; } }
   body.intermission .info ol {
     padding-left: 1.5em;
-    overflow-x: scroll;
+    overflow-y: scroll;
     margin-bottom: 0; }
 
 /*# sourceMappingURL=default.css.map */
