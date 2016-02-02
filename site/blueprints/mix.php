@@ -16,6 +16,16 @@ fields:
     label: Date
     type: date
     format: MM/DD/YYYY
+    width: 1/2
+  order:
+    label: Sort Order
+    type: select
+    width: 1/2
+    options:
+      - 1
+      - 2
+      - 3
+      - 4
   tracklist:
     label: Track List
     type:  textarea
