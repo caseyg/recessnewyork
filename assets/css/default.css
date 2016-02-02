@@ -6250,7 +6250,8 @@ footer .follow {
     vertical-align: middle; }
 
 .grid img {
-  width: 100%; }
+  width: 100%;
+  margin-bottom: 5px; }
 .grid a:link, .grid a:visited {
   color: #000;
   margin-bottom: 30px; }
