@@ -26,7 +26,7 @@
 		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fdee4292505e9fd"></script>
 		<!-- AddThis Button END -->
 
-       	<?php if($page->audio()->notEmpty()): ?><a class="share" href="<?php echo $page->audio()->first()->url() ?>">DOWNLOAD</a><?php endif ?>
+       	<?php if($page->audio()->count() > 0): ?><a class="share" href="<?php echo $page->audio()->first()->url() ?>">DOWNLOAD</a><?php endif ?>
 		
 		<div class="pull-right">
           	<iframe src="//www.facebook.com/plugins/like.php?href=<?php echo $page->url() ?>&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=110196125731861" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
