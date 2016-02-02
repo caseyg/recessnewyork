@@ -71,6 +71,7 @@
 </div>
 <script>
 var $gallery = $('.gallery').flickity({
+	"imagesLoaded": true,
 	"wrapAround": true,
 	"pageDots": false,
     arrowShape: { 

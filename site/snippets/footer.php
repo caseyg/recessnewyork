@@ -39,6 +39,7 @@ $(function() {
   });
   <?php if(!$page->parent()->slug() == "events" || $page->parent()->slug() == "studio"): ?>
   $('.gallery').flickity({
+	imagesLoaded: true,
   	autoPlay: true,
   	wrapAround: true, 
   	pageDots: false,
