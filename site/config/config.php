@@ -30,3 +30,4 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 
 c::set('bydate.limit', 1000);
+c::set('cache', true);
