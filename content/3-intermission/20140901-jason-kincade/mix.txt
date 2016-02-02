@@ -18,7 +18,7 @@ Title: Jason Kincade
 
 ----
 
-Author-website: http://www.pbvinyl.com
+Authorwebsite: http://www.pbvinyl.com
 
 ----
 

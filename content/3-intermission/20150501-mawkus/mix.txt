@@ -21,7 +21,7 @@ Title: Mawkus
 
 ----
 
-Author-website: http://mawkward.com
+Authorwebsite: http://mawkward.com
 
 ----
 

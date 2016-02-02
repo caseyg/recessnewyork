@@ -19,7 +19,7 @@ Title: Mamabear
 
 ----
 
-Author-website: http://www.djmamabear.com
+Authorwebsite: http://www.djmamabear.com
 
 ----
 

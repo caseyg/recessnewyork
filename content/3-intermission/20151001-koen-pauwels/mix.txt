@@ -18,7 +18,7 @@ Title: Koen Pauwels
 
 ----
 
-Author-website: http://www.ismarchitecten.be
+Authorwebsite: http://www.ismarchitecten.be
 
 ----
 

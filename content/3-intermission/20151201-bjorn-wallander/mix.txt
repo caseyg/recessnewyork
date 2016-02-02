@@ -19,7 +19,7 @@ Title: Bjorn Wallander
 
 ----
 
-Author-website: http://www.bjornwallander.com
+Authorwebsite: http://www.bjornwallander.com
 
 ----
 

@@ -25,7 +25,7 @@ Title: Small Change
 
 ----
 
-Author-website: http://www.djsmallchange.com
+Authorwebsite: http://www.djsmallchange.com
 
 ----
 

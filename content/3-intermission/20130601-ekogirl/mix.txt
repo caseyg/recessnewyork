@@ -23,7 +23,7 @@ Title: ekogirl
 
 ----
 
-Author-website: http://www.ekogirl.com
+Authorwebsite: http://www.ekogirl.com
 
 ----
 

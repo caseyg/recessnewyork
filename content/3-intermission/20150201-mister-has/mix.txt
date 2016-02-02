@@ -17,7 +17,7 @@ Title: Mister Has
 
 ----
 
-Author-website: http://www.rawjak.com
+Authorwebsite: http://www.rawjak.com
 
 ----
 

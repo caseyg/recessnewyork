@@ -20,7 +20,7 @@ Title: Marco Weibel
 
 ----
 
-Author-website: http://www.darkerthanwax.com
+Authorwebsite: http://www.darkerthanwax.com
 
 ----
 

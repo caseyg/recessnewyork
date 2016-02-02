@@ -21,7 +21,7 @@ Title: Havana Joe
 
 ----
 
-Author-website: http://pugilistatrading.com
+Authorwebsite: http://pugilistatrading.com
 
 ----
 

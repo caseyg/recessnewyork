@@ -23,7 +23,7 @@ Title: debeck
 
 ----
 
-Author-website: http://www.deadlydragonsound.com
+Authorwebsite: http://www.deadlydragonsound.com
 
 ----
 

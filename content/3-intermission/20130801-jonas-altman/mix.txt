@@ -20,7 +20,7 @@ Title: Jonas Altman
 
 ----
 
-Author-website: http://www.thesocialfabric.com
+Authorwebsite: http://www.thesocialfabric.com
 
 ----
 

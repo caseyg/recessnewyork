@@ -21,7 +21,7 @@ Title: Matt Schlichter
 
 ----
 
-Author-website: http://www.matthewschlichter.com
+Authorwebsite: http://www.matthewschlichter.com
 
 ----
 

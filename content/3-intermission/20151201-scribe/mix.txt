@@ -22,7 +22,7 @@ Title: Scribe
 
 ----
 
-Author-website: http://djscribe.com
+Authorwebsite: http://djscribe.com
 
 ----
 

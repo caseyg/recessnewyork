@@ -21,7 +21,7 @@ Title: Roy Dank
 
 ----
 
-Author-website: http://www.thewurstwebsite.com
+Authorwebsite: http://www.thewurstwebsite.com
 
 ----
 

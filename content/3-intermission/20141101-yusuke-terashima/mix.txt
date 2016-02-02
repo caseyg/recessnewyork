@@ -24,7 +24,7 @@ Title: Yusuke Terashima
 
 ----
 
-Author-website: http://yusuketerashima.com
+Authorwebsite: http://yusuketerashima.com
 
 ----
 
