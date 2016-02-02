@@ -6010,18 +6010,15 @@ p, .lead {
 .next-event .sponsors img {
   margin-right: 15px; }
 
-.row {
-  margin-bottom: 0; }
-  @media (min-width: 480px) {
-    .row {
-      margin-bottom: 15px; } }
-  @media (min-width: 992px) {
-    .row {
-      margin-bottom: 30px; } }
+@media (min-width: 480px) {
+  .row {
+    margin-bottom: 15px; } }
+@media (min-width: 992px) {
+  .row {
+    margin-bottom: 30px; } }
 
 img {
   max-width: 100%;
-  margin-bottom: 5px;
   height: auto; }
 
 nav {
@@ -6122,58 +6119,6 @@ nav {
   width: 100%; }
   .gallery-cell:hover, .gallery-cell:active {
     text-decoration: none; }
-  .gallery-cell img {
-    margin: 0;
-    padding: 0; }
-  .gallery-cell .overlay {
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-box-pack: center;
-    -webkit-box-align: center;
-    display: -moz-box;
-    -moz-box-orient: vertical;
-    -moz-box-pack: center;
-    -moz-box-align: center;
-    display: box;
-    box-orient: vertical;
-    box-pack: center;
-    box-align: center;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0; }
-  .gallery-cell h1, .gallery-cell h2 {
-    position: relative;
-    margin: 0;
-    padding: 0 45px; }
-  .gallery-cell h1 {
-    font-family: "futura-pt-condensed", sans-serif;
-    font-weight: 800;
-    font-size: 36px; }
-    @media (min-width: 768px) {
-      .gallery-cell h1 {
-        font-size: 46px; } }
-    @media (min-width: 992px) {
-      .gallery-cell h1 {
-        font-size: 72px; } }
-    @media (min-width: 1200px) {
-      .gallery-cell h1 {
-        font-size: 72px; } }
-  .gallery-cell h2 {
-    letter-spacing: 1px;
-    font-family: "futura-pt", sans-serif;
-    font-weight: 100 !important;
-    font-size: 12px; }
-    @media (min-width: 768px) {
-      .gallery-cell h2 {
-        font-size: 12px; } }
-    @media (min-width: 992px) {
-      .gallery-cell h2 {
-        font-size: 15px; } }
-    @media (min-width: 1200px) {
-      .gallery-cell h2 {
-        font-size: 15px; } }
 
 .flickity-prev-next-button {
   border-radius: 0;
@@ -6201,15 +6146,68 @@ nav {
     .studio .flickity-prev-next-button {
       display: block; } }
 
-.gallery figure {
+.hero {
   display: block;
-  width: 100%; }
-  .gallery figure img {
+  position: relative; }
+  .hero h1, .hero h2 {
+    color: #fff !important; }
+  .hero figure {
     display: block;
-    margin: auto; }
-
-.gallery.hero h1, .gallery.hero h2 {
-  color: #fff !important; }
+    width: 100%; }
+    .hero figure img {
+      display: block;
+      margin: 0;
+      padding: 0; }
+  .hero .overlay {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: box;
+    box-orient: vertical;
+    box-pack: center;
+    box-align: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0 15px; }
+  .hero h1, .hero h2 {
+    position: relative;
+    margin: 0;
+    padding: 0 45px; }
+  .hero h1 {
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 800;
+    font-size: 36px; }
+    @media (min-width: 768px) {
+      .hero h1 {
+        font-size: 46px; } }
+    @media (min-width: 992px) {
+      .hero h1 {
+        font-size: 72px; } }
+    @media (min-width: 1200px) {
+      .hero h1 {
+        font-size: 72px; } }
+  .hero h2 {
+    letter-spacing: 1px;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 100 !important;
+    font-size: 12px; }
+    @media (min-width: 768px) {
+      .hero h2 {
+        font-size: 12px; } }
+    @media (min-width: 992px) {
+      .hero h2 {
+        font-size: 15px; } }
+    @media (min-width: 1200px) {
+      .hero h2 {
+        font-size: 15px; } }
 
 .gallery-status {
   width: 100%;
