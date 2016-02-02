@@ -21,7 +21,7 @@
 		<?php endforeach ?>
 	<?php endif ?>
 <?php elseif($section == 'studio'): ?>
-	<?php foreach ($pages->find($section)->children()->sortBy('date', 'desc')->limit(1) as $subpage): ?>
+	<?php foreach ($pages->find($section)->children()->limit(1) as $subpage): ?>
 	<a href="<?php echo $subpage->url() ?>">
 		<h3><?php echo $subpage->title() ?></h3>
 
