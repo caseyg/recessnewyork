@@ -33,12 +33,12 @@
 		</div>
 	</div>
 	<div class="col-xs-4 col-sm-6 col-sm-offset-0">
-		<?php if($page->hasPrevVisible()): ?>
-			<a class="share" href="<?php echo $page->prevVisible()->url() ?>">Prev</a>
+		<?php if($page->hasPrev()): ?>
+			<a class="share" href="<?php echo $page->prev()->url() ?>">Prev</a>
 		<?php endif ?>
 
-		<?php if($page->hasNextVisible()): ?>
-			<a class="share pull-right" href="<?php echo $page->nextVisible()->url() ?>">Next</a>
+		<?php if($page->hasNext()): ?>
+			<a class="share pull-right" href="<?php echo $page->next()->url() ?>">Next</a>
 		<?php endif ?>
 	</div>
 </div>
