@@ -7,6 +7,9 @@ fields:
   title:
     label: Title
     type:  text
+  subtitle:
+    label: Subtitle
+    type:  text
   text:
     label: Text
     type:  textarea

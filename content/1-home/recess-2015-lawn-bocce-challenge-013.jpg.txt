@@ -1,0 +1,17 @@
+Slidecolor: 
+
+----
+
+Slideoverlay: 
+
+----
+
+Slidesubtitle: 
+
+----
+
+Slidetitle: 
+
+----
+
+Slidelink: 

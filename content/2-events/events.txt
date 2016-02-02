@@ -1,0 +1,24 @@
+Title: Events
+
+----
+
+Text: 
+
+----
+
+Subtitle: 
+
+----
+
+Herobackgroundcolor: #21b83d
+
+----
+
+Herotextcolor: #ffffff
+
+----
+
+Carousel: 
+
+- 
+  page: foam-tennis

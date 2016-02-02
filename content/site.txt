@@ -1,1 +1,17 @@
-Title: Site Title
+Title: Recess New York
+
+----
+
+Subtitle: 
+
+----
+
+Herobackgroundcolor: 
+
+----
+
+Carousel: 
+
+----
+
+Text: 
