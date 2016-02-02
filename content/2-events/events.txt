@@ -22,7 +22,3 @@ Carousel:
 
 - 
   page: foam-tennis
-- 
-  page: bocce-2012
-- 
-  page: badminton-2011
