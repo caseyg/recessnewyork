@@ -21,6 +21,7 @@
   }
   </style>
   <meta charset="utf-8" />
+  <meta name="google" content="notranslate" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php if($page->slug() != 'home'): ?><?php echo $page->title()->html() ?> | <?php endif ?><?php echo $site->title()->html() ?></title>
   <meta name="description" content="<?php if ($page->text()->isNotEmpty()): ?><?php echo $page->text() ?><?php else: ?><?php echo $site->text() ?><?php endif ?>">
