@@ -56,7 +56,7 @@
 		</div>
 		<div class="gallery-status"></div>
 	<?php else: ?>
-		<div class="lead gallery-cell col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+		<div class="lead col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 			<?php echo $page->text()->kt() ?>
 		</div>
 	<?php endif ?>
