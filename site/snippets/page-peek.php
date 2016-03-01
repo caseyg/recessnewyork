@@ -12,7 +12,7 @@
 	<?php else: ?>
 		<h2>Next Event</h2>
 		<?php foreach ($pages->find($section)->children()->filterBy('date', '>', time())->sortBy('date', 'desc')->limit(1) as $subpage): ?>
-			<a href="<?php echo $subpage->url() ?>">
+			<a href="/events">
 				<h3><?php echo $subpage->title() ?></h3>
 				<?php if ($subpage->hasImages()): ?>	
 					<img src="<?php echo $subpage->images()->first()->crop('408', '263')->url() ?>" alt="">
