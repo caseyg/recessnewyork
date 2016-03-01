@@ -21,4 +21,4 @@ Herotextcolor: #ffffff
 Carousel: 
 
 - 
-  page: foam-tennis
+  page: bowling-2016
