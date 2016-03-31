@@ -6266,26 +6266,28 @@ footer .follow {
 body.intermission iframe.mixcloud {
   margin-bottom: 15px; }
 body.intermission .info {
-  max-height: 555px;
   overflow: hidden;
   display: flex;
   flex-direction: column; }
+  body.intermission .info ol {
+    width: 100%;
+    padding-left: 2em;
+    padding-right: 15px;
+    overflow-y: scroll;
+    margin-bottom: 15px;
+    max-height: 300px; }
+  body.intermission .info ol::-webkit-scrollbar {
+    display: none; }
   @media (min-width: 768px) {
     body.intermission .info {
-      max-height: 345px; } }
+      max-height: 345px; }
+    body.intermission .info ol {
+      max-height: none; } }
   @media (min-width: 992px) {
     body.intermission .info {
       max-height: 455px; } }
   @media (min-width: 1200px) {
     body.intermission .info {
       max-height: 555px; } }
-  body.intermission .info ol {
-    width: 100%;
-    padding-left: 1.5em;
-    padding-right: 15px;
-    overflow-y: scroll;
-    margin-bottom: 15px; }
-  body.intermission .info ol::-webkit-scrollbar {
-    display: none; }
 
 /*# sourceMappingURL=default.css.map */
