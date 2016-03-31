@@ -397,9 +397,14 @@ body.intermission {
 		display: flex;
 		flex-direction: column;
 		ol {
+			width: 100%;
 			padding-left: 1.5em;
+		    padding-right: 15px;
 			overflow-y: scroll;
-			margin-bottom: 0;
+			margin-bottom: 15px;
+		}
+		ol::-webkit-scrollbar { 
+			display: none; 
 		}
 	}
 }

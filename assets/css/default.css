@@ -6280,8 +6280,12 @@ body.intermission .info {
     body.intermission .info {
       max-height: 555px; } }
   body.intermission .info ol {
+    width: 100%;
     padding-left: 1.5em;
+    padding-right: 15px;
     overflow-y: scroll;
-    margin-bottom: 0; }
+    margin-bottom: 15px; }
+  body.intermission .info ol::-webkit-scrollbar {
+    display: none; }
 
 /*# sourceMappingURL=default.css.map */
