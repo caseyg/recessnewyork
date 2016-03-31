@@ -398,6 +398,7 @@ body.intermission {
 			overflow-y: scroll;
 			margin-bottom: 15px;
 			max-height: 300px;
+			-ms-overflow-style: -ms-autohiding-scrollbar;
 		}
 		ol::-webkit-scrollbar { 
 			display: none; 
