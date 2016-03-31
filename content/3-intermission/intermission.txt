@@ -13,11 +13,13 @@ Herobackgroundcolor: #ffd900
 Carousel: 
 
 - 
-  page: james-friedman
-  image: "1"
+  page: gabriela-mejia-aka-gabby-2
 - 
-  page: askew
-  image: "1"
+  page: tyler-askew-2
+- 
+  page: andy-toh-2
+- 
+  page: preservation
 
 ----
 
