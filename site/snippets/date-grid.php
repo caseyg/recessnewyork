@@ -8,7 +8,7 @@
 				<?php foreach($uris as $uri): ?>
 					<?php $post = $pages->find($uri); ?>
 					<a class="col-xs-6 col-sm-3" href="<?php echo $post->url() ?>">
-						<img src="<?php if($post->images()->find('thumbnail.jpg')): ?><?php echo $post->images()->find('thumbnail.jpg')->url() ?><?php else: ?><?php echo $post->images()->first()->url() ?><?php endif ?>" alt="">
+						<img src="<?php if($post->images()->find('thumbnail.jpg')): ?><?php echo $post->images()->find('thumbnail.jpg')->url() ?><?php else: ?><?php if($post->images()->count() > 0): ?><?php echo $post->images()->first()->url() ?><?php else: ?>http://placehold.it/375x375<?php endif ?><?php endif ?>" alt="">
 						<p><?php echo $post->title() ?></p>
 					</a>
 				<?php endforeach; ?>

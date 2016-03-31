@@ -22,7 +22,7 @@
 			<?php foreach( $pages->find('intermission')->children()->flip()->limit(4)->sortBy('order', 'asc') as $hero): ?>
 				<a class="gallery-cell" href="<?php echo $hero->url() ?>" width="263" height="352">	
 					<h3><?php echo $hero->title() ?></h3>
-					<img src="<?php echo $hero->images()->first()->crop('375','375')->url() ?>" width="375" height="375">
+					<img src="<?php if($hero->images()->count() > 0): ?><?php echo $hero->images()->first()->crop('375','375')->url() ?><?php else: ?>http://placehold.it/375x375<?php endif ?>" width="375" height="375">
 				</a>
 			<?php endforeach ?>
 		</div>
