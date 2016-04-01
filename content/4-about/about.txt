@@ -16,10 +16,6 @@ Subtitle:
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Herotextcolor: 
 
 ----

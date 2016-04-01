@@ -28,8 +28,4 @@ Text: I move from place to place. I don't go just to visit. Sometimes, I go to l
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/diggs-duke-for-intermission/

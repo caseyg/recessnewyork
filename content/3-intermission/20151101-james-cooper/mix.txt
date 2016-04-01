@@ -27,8 +27,4 @@ Text: This is what 1990 London sounded like to me, all those years ago when I wa
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/james-cooper-for-intermission/

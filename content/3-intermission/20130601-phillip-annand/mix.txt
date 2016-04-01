@@ -28,8 +28,4 @@ Text: The greatest book ever written is Kon-Tiki by Thor Heyerdahl. I can't thin
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/phillip-annand-for-intermission/

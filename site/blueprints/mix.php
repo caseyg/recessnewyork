@@ -32,9 +32,6 @@ fields:
   text:
     label: Text
     type:  textarea
-  herobackgroundcolor:
-    label: Hero Background Color
-    type: color
   mixcloud:
     label: Mixcloud URL
     type: url

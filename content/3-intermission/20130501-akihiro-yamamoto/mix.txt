@@ -34,8 +34,4 @@ fb_description: Akihiro Yamamoto for Intermission
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/akihiro-yamamoto-for-intermission/

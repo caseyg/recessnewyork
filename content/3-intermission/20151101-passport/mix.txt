@@ -34,8 +34,4 @@ Text: Reggae music is inspirational, meant to keep your spirits lifted and set a
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/passport-for-intermission/

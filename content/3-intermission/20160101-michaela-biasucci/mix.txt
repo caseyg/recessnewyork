@@ -28,8 +28,4 @@ Text: A playlist dedicated to the Fall in New York, and my new home. These songs
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/michaela-biasucci-for-intermission/

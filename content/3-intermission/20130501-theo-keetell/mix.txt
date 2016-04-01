@@ -27,8 +27,4 @@ Text: It's 11:30PM, maybe. A hot and humid night in July, August, whenever. Inte
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/theo-keetell-for-intermission/

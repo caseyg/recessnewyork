@@ -31,8 +31,4 @@ Text: My two favorite pastimes are flying and swimming. Whereas travel gets you 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/ekogirl-for-intermission/

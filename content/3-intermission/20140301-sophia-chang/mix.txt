@@ -34,8 +34,4 @@ Text: The sky's the limit.
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/sophia-chang-for-intermission/

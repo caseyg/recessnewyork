@@ -32,8 +32,4 @@ Text: Recess is always best when taken outside. A mix that's both familiar and f
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/zephyr-doles-for-intermission/

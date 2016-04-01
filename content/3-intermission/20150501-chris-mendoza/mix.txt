@@ -33,8 +33,4 @@ Text: I was born in Nicaragua surrounded by music, soccer, art and architecture.
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/chris-mendoza-for-intermission/

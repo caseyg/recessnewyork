@@ -28,8 +28,4 @@ Text: RECESS=secret place. Spread the word.
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/daniel-clark-for-intermission/

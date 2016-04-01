@@ -30,8 +30,4 @@ Audio: /assets/1-TETSURO.m4a
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/bing-ji-ling-for-intermission/

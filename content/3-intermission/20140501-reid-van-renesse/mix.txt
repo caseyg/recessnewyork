@@ -27,8 +27,4 @@ Text: My first visit to the Caribbean was in 1997 as an athlete. I traveled to T
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/reid-van-renesse-for-intermission/

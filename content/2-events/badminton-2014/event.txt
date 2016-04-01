@@ -27,7 +27,3 @@ Text: Participating teams included An Choi, The Chia Co, PIPS, Re-Mu, Jeepney, P
 ----
 
 Tickets: 
-
-----
-
-Herobackgroundcolor: 

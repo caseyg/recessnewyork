@@ -28,8 +28,4 @@ Text: My RECESS, my senses. Listening to sounds of music, all surrounding sounds
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: 

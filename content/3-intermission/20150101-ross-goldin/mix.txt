@@ -35,8 +35,4 @@ Text: This mix is for cheese fries, root beers, bike rides and best friends. Lif
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/ross-goldin-for-intermission/

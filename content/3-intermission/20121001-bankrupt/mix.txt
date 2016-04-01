@@ -28,8 +28,4 @@ Text: My RECESS is cycling through the Netherlands, where I’m living at the mo
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/gabe-jaffe-aka-bankrupt-for-intermission/

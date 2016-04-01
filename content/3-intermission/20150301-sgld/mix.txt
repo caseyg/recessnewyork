@@ -31,8 +31,4 @@ Text: From my upbringing in Iowa to where I currently reside in New York City, t
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/sgld-for-intermission/

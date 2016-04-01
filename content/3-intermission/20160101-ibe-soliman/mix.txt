@@ -35,8 +35,4 @@ Text: Right on Whittier. Left on River. Right on Westbard. Big building on Right
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/ibe-soliman-for-intermission/

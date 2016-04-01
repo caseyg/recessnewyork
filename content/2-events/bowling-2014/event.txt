@@ -27,7 +27,3 @@ Text: Participating teams included Warby Parker, Design Gym, Wrecking Balls, Sto
 ----
 
 Tickets: 
-
-----
-
-Herobackgroundcolor: 

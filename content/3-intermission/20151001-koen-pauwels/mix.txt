@@ -26,8 +26,4 @@ Text: All RECESS is too short.
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/koen-pauwels-for-intermission/

@@ -29,8 +29,4 @@ Text: You can't learn everything from the Internet. Sometimes you have to go out
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/mawkus-for-intermission/

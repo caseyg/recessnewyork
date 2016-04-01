@@ -27,8 +27,4 @@ Text: My Recess - Real Ale, Saunas and Sailboats. Clear Lakes, Cats and Mountain
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/mike-messenie-for-intermission/

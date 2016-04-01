@@ -34,8 +34,4 @@ Text: As the thermometer starts to rise into three digit territory, there is an 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/mark-rancourt-for-intermission/

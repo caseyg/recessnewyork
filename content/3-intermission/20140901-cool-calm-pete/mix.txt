@@ -31,8 +31,4 @@ Text: Triangle Offense
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/cool-calm-pete-for-intermission/

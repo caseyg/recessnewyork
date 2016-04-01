@@ -32,8 +32,4 @@ my RECESS = travel
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/nathalie-coppens-for-intermission/

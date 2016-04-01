@@ -32,8 +32,4 @@ Text: Smokey: Why you not goin' to work? Craig: I got fired yesterday. Smokey: N
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/lindsey-for-intermission/

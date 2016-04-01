@@ -28,8 +28,4 @@ Text: The color green, warm breeze, ease of the sway...
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/rare-for-intermission/

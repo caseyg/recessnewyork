@@ -28,8 +28,4 @@ Text: I'm an analog man. I like the city. Sometimes I wish I were closer to the 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/montechristo-for-intermission/

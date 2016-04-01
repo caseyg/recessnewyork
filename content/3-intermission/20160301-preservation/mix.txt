@@ -34,8 +34,4 @@ Text: Hong Kong Hoops
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/preservation-for-intermission/

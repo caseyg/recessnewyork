@@ -28,8 +28,4 @@ Text: Freedom is being the architect of choices. In a switched-on world sometime
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/jonas-altman-for-intermission/

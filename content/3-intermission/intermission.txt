@@ -12,15 +12,6 @@ Herobackgroundcolor: #ffd900
 
 Carousel: 
 
-- 
-  page: gabriela-mejia-aka-gabby-2
-- 
-  page: tyler-askew-2
-- 
-  page: andy-toh-2
-- 
-  page: preservation
-
 ----
 
 Text: 

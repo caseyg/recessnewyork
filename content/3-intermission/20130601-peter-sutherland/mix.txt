@@ -27,8 +27,4 @@ Text: I love music. I listen to it all day every day and I listen to reggae on l
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/peter-sutherland-for-intermission/

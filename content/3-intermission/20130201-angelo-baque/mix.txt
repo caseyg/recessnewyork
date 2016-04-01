@@ -26,8 +26,4 @@ Text: Born and raised in NYC. I am NY wherever I travel to on this planet.  The 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/angelo-baque-for-intermission/

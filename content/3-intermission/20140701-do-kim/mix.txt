@@ -27,8 +27,4 @@ Text: This mix is a shout-out to those good ol' days. Rolling around with my fri
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/do-kim-for-intermission/

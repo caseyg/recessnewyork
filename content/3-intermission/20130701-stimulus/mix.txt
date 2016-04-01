@@ -29,8 +29,4 @@ Text: Ice cream cones were rare and expensive when I was growing up in Bedstuy. 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/stimulus-for-intermission/

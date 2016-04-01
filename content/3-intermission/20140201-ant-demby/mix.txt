@@ -28,8 +28,4 @@ Text: LOVE is all there is and the way we experience it varies from all sides of
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/ant-demby-for-intermission/

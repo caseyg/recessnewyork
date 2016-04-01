@@ -27,7 +27,3 @@ Text: Participating teams included Toki Underground, Hungry Inc, ADstruc, ReMu, 
 ----
 
 Tickets: 
-
-----
-
-Herobackgroundcolor: 

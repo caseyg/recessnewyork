@@ -35,8 +35,4 @@ Audio: /assets/1-TETSURO.m4a
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/jason-debeck-for-intermission/

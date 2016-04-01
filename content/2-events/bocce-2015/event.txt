@@ -27,7 +27,3 @@ Text: Participating teams included Wythe Hotel, Moet Hennessy, The Mill,  Venmo,
 ----
 
 Tickets: 
-
-----
-
-Herobackgroundcolor: 

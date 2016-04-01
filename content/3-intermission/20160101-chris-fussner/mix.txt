@@ -31,8 +31,4 @@ Text: I've been playing for about a year, in a sports analogy I'm your friend th
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/chris-fussner-for-intermission/

@@ -30,8 +30,4 @@ Text: A beach mix that'll cool you down as the sun sets and the day culminates i
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/murphy-for-intermission/

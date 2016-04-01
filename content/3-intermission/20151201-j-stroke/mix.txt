@@ -66,8 +66,4 @@ Text: When I think of Recess, I reflect back to my elementary school daze; the t
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/jstroke-for-intermission/

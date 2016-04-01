@@ -32,8 +32,4 @@ Audio: /assets/1-TETSURO.m4a
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/gabriela-mejia-aka-gabby-for-intermission/

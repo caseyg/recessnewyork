@@ -22,10 +22,6 @@ Date: 2013-01-01
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Season: 
 
 ----

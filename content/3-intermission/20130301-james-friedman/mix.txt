@@ -27,8 +27,4 @@ Text: This mix was inspired by Rene Daumal's Mount Analog as well as Alejandro J
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/james-friedman-for-intermission/

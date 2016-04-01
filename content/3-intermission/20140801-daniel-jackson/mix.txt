@@ -27,10 +27,6 @@ Text: "I look up at the night sky, and I know that, yes, we are part of this Uni
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/daniel-jackson-for-intermission/
 
 ----

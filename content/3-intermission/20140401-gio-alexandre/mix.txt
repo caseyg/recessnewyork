@@ -34,8 +34,4 @@ Text: NYC native known for being a rhythm selector, crowd motivator, music creat
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/gio-alexandre-for-intermission/

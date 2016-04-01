@@ -27,7 +27,3 @@ Text: Participating teams included Story Worldwide, Pepe Rosso Social, Studio Ro
 ----
 
 Tickets: 
-
-----
-
-Herobackgroundcolor: 

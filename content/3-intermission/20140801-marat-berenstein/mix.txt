@@ -27,8 +27,4 @@ Text: This mix is fueled by emerging artists from New York and Philly, to London
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/marat-berenstein-for-intermission/

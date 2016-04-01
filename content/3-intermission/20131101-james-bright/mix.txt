@@ -29,8 +29,4 @@ Text: It's all about the little details. Things you miss if you don't have your 
 
 ----
 
-Herobackgroundcolor: 
-
-----
-
 Mixcloud: https://www.mixcloud.com/recessnewyork/mr-james-bright-aka-hairy-hands-for-intermission/
