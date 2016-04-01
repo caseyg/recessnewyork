@@ -1,6 +1,6 @@
 <div class="col-xs-12 grid">
 	<?php if ($page->slug() == 'intermission'): ?>
-		<?php $postUris = pagesByDate($page->children(), array('group'=>'month','max'=>'2100101')); ?>
+		<?php $postUris = pagesByDate($page->children(), array('group'=>'month','max'=>'2116101')); ?>
 		<?php foreach($postUris as $year => $months): ?>
 			<?php foreach($months as $month => $uris): ?>
 			<div class="row">
