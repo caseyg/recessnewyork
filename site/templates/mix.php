@@ -4,7 +4,7 @@
 
 	<div class="col-sm-6">
 		<div class="row">
-			<img class="col-xs-12" src="<?php echo $page->images()->first()->resize(555,555)->url() ?>" width="555" height="555" alt="<?php echo $page->title() ?>">
+			<img class="col-xs-12" src="<?php if($page->images()->count() > 0): ?><?php echo $page->images()->first()->resize(555,555)->url() ?><?php else: ?>http://placehold.it/555x555<?php endif ?>" width="555" height="555" alt="<?php echo $page->title() ?>">
 		</div>
 	</div>
 
