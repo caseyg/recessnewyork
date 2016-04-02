@@ -14,7 +14,9 @@
 				</a>
 			</div>
 			<div class="col-sm-6">
-				<a href="<?php echo $subpage->url() ?>"><img src="<?php echo $subpage->images()->first()->crop(585, 300)->url() ?>"></a>
+								<img src="<?php echo $subpage->images()->first()->crop('408', '263')->url() ?>" alt="">
+
+				<a href="<?php echo $subpage->url() ?>"><img src="<?php echo $subpage->images()->first()->crop(585, 377)->url() ?>"></a>
 			</div>
 			<div class="col-sm-6 next-event">
 				<?php echo $subpage->text()->kt() ?>
